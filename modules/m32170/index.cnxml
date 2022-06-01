@@ -1,0 +1,858 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Project Planning</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32170</md:content-id>
+  <md:title>Project Planning</md:title>
+  <md:abstract/>
+  <md:uuid>7037d48a-405a-476e-b48d-e0b5b0262641</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1164247846432">After the project has been defined and the project team has been appointed, you are ready to enter the second phase in the project management life cycle: the detailed <emphasis effect="italics">project planning</emphasis> phase. </para>
+    <para id="id1164272614158">Project planning is the heart of the project life cycle, and tells everyone involved where you’re going and how you’re going to get there. The planning phase is where the project plans are documented, the project deliverables and requirements defined, and the project schedule created. It involves creating a set of plans to help guide your team through the execution and closure phases of the project. The plans created during this phase will help you to manage time, cost, quality, change, risk and related issues. It will also help you manage staff and external suppliers, to ensure that you deliver the project on time and within schedule. </para>
+    <para id="id1164228819168">The project planning phase is often the most challenging phase for a project manager, as you need to make an educated guess of the staff, resources and equipment needed to complete your project. You may also need to plan your communications and procurement activities, as well as contract any 3rd party suppliers.</para>
+    <para id="id1164235822834">The purpose of the project planning phase is: </para>
+    <list id="id1164256766009" list-type="bulleted">
+      <item>Establish business requirements. </item>
+      <item>Establish cost, schedule, list of deliverables and delivery dates. </item>
+      <item>Establish resource plan. </item>
+      <item>Get management approval and proceed to the next phase. </item>
+    </list>
+    <para id="id1164224557545">The basic processes of the project planning are: </para>
+    <list id="id1164281621418" list-type="bulleted"><item><emphasis effect="bold">Scope planning</emphasis> specifies the in-scope requirements for the project and facilitates creating the work breakdown structure.</item>
+	<item><emphasis effect="bold">Preparing the work breakdown structure</emphasis> specifies the breakdown of the project into tasks and sub tasks.</item>
+	<item><emphasis effect="bold">Project schedule development</emphasis> specifies the entire schedule of the activities detailing their sequence of execution.</item>
+	<item><emphasis effect="bold">Resource planning</emphasis> specifies who will do what work at which time of the project and if any special skills are needed to accomplish the project tasks.</item>
+		<item><emphasis effect="bold">Budget planning</emphasis> specifies the budgeted cost to be incurred in the completion of the project. </item>
+<item><emphasis effect="bold">Procurement planning</emphasis> focuses on dealing with vendors outside of your company</item>
+	<item><emphasis effect="bold">Risk management planning</emphasis> charts the risks, contingency plan and mitigation strategies. </item>
+	<item><emphasis effect="bold">Quality planning</emphasis> for quality assurance to be applied to the project. </item>
+	<item><emphasis effect="bold">Communication planning</emphasis> on the communication strategy with all project stakeholders. </item>
+</list>
+    <para id="id1164266759369">The planning phase refines the project’s objectives gathered during the <emphasis effect="italics">initiation phase</emphasis> and plans the steps necessary to meet those objectives by further identifying the specific activities and resources required to complete the project. Now that these objectives have been recognized, they must be clearly articulated entailing an in-depth scrutiny of the recognized objective. With such scrutiny, our understanding of the objective will change. Often the very act of trying to describe something precisely gives us a better understanding of what we are looking at. This articulation serves as the basis for the development of requirements. What this means is that after an objective has been clearly articulated (clearly stated) we can go about the business of stipulating in concrete terms what we have to do to achieve it. Obviously, if we do a poor job of articulating the objective, our requirements will be misdirected and the resulting project will not represent the true need. </para>
+    <para id="id1164242126357">Users will often begin describing their objectives in qualitative language. The project manager must work with the user to provide quantifiable definitions to those qualitative terms. These quantifiable criteria include: schedule, cost, and quality measures. In the case of project objectives, these elements are used as measurements to determine project satisfaction and successful completion. Subjective evaluations can be removed with actual numbers. </para>
+    
+    <example id="eip-333"><para id="eip-555">
+  A web user may ask for a <emphasis effect="italics">fast system</emphasis>. The quantitative example would be <emphasis effect="italics">all screens must load in under 3 seconds</emphasis>. Describing the time limit in which the screen must load is specific and tangible. For that reason, you’ll know that the requirement has been completed when the objective has been met. 
+</para>
+</example>
+    <example id="eip-454"><para id="eip-900">
+ Let’s say your company is going to produce a run of holiday eggnog. Your objective statement might be stated this way: <emphasis effect="italics">Christmas Cheer, Inc. will produce two million cases of holiday eggnog to be shipped to our distributors by October 30 at a total cost of $1.5 million or less</emphasis>. The objective criteria in this statement are clearly stated and fulfillment of the project objective can be easily measured. Stakeholders will know the objective is met when the two million cases are produced and shipped by the due date within the budget stated. 
+</para>
+</example><para id="id1164258176395">When articulating the project objectives you should follow the SMART rule:</para>
+    <list id="id1164259153286" list-type="bulleted">
+      <item><emphasis effect="bold">S</emphasis>pecific (get into the details). Objectives should be specific and written in clear, concise, and understandable terms.</item>
+      <item><emphasis effect="bold">M</emphasis>easurable (use qualitative language so you know when you are finished). A requirement must have a measurable outcome; otherwise you will not be able to determine when you have delivered it.</item>
+      <item><emphasis effect="bold">A</emphasis>cceptable (to stakeholders). </item>
+      <item><emphasis effect="bold">R</emphasis>ealistic (in terms of achievement). Objectives that are impossible to accomplish are not realistic and not attainable. Objectives must be centered in reality.</item>
+      <item><emphasis effect="bold">T</emphasis>ime bound (deadlines not durations). Objectives should have a timeframe with an end date assigned to them. </item>
+    </list>
+    <para id="id1164231185611">If you follow these principles, you’ll be certain that your objectives meet the <emphasis effect="italics">quantifiable criteria</emphasis> needed to measure success. </para>
+    <section id="id1164267142621">
+      <title>Scope planning</title>
+      <para id="id1164262417106">You always want to know exactly what work has to be done to finish your project BEFORE you start it. You’ve got a collection of team members, and you need to know exactly what they’re going to do to build your product or meet the project’s objectives. The scope planning process if the very first thing you do to manage your scope. Project scope planning is concerned with defining all of the work of the project and only the work needed to successfully meet the project objectives. The whole idea here is that when you start the project, you need to have a clear picture of all the work that needs to happen on your project, and as the project progresses, you need to keep that scope up to date and written down in the project’s <emphasis effect="italics">scope management plan</emphasis>.</para>
+      <section id="id1164271499518">
+        <title>How do you define the scope?</title>
+        <para id="id1164249013507">You already got a head start on refining the project’s objectives in quantifiable terms, but now you need to go a lot further and write down all of the deliverables that you and your team are going to produce over the course of the project. Deliverables include everything that you and your team produce for the project; anything that your project will deliver. The deliverables for your project include all of the products or services that you and your team are performing for the client, customer, or sponsor. But deliverables include more than that. They also include every single document, plan, schedule, budget, blueprint, and anything else that gets made along the way; including all of the project management documents you put together. Project deliverables are measurable outcomes, measurable results, or specific items that must be produced to consider the project or project phase completed. Deliverables like objectives must be specific and verifiable. </para>
+        <para id="id1164224975937">All deliverables must be described in enough detail so that they can be differentiated from related deliverables. For example:</para>
+        <list id="id1164231180198" list-type="bulleted">
+          <item>A twin engine plane versus a single engine plane. </item>
+          <item>A red marker versus a green marker. </item>
+          <item>A daily report versus a weekly report. </item>
+          <item>A departmental solution versus an enterprise solution.</item>
+        </list>
+        <para id="id1164225709464">One of the project manager’s primary functions is to accurately document the deliverables and requirements of the project and then manage the project so that they are produced according to the agreed upon criteria. Deliverables describe the components of the goals and objectives in a quantifiable way. Requirements are the specifications of the deliverables. </para>
+      </section>
+      <section id="id1164250095057">
+        <title>Project requirements</title>
+        <para id="id1164260397164">After all the deliverables are identified, the project manager needs to discover and document all of the requirements of the project (<link target-id="id1164273687973"/>). Requirements describe the characteristics of the deliverable. They may also describe functionality that the deliverable must have or specific conditions the deliverable must meet in order to satisfy the objective of the project.<emphasis effect="italics"/> A requirement is an objective that must be met. The project requirements defined in the <emphasis effect="italics">scope plan</emphasis> describe what a project is supposed to accomplish and how the project is supposed to be created and implemented. Requirements answer the following questions regarding the AS IS and TO BE states of the business: who, what where, when, how much, how does a business process work. </para>
+        <figure id="id1164273687973"><media id="id1164273687973_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-a37b.jpg" id="id1164273687973__onlineimage" width="550" print-width="5.5in"/>
+          </media>
+        <caption>When you don’t get project requirements. Copyright: United Feature Syndicate, Inc. (2009). </caption></figure>
+        
+        <para id="id1164280210922">Requirements may include things like dimensions, ease of use, color, specific ingredients, and so on. If we go back to the example of the company producing holiday eggnog; one of the major deliverables is the cartons that hold the eggnog. The requirements for that deliverable may include carton design, photographs that will appear on the carton, color choices, etc. </para>
+        <para id="id1164281253279">Requirements specify what the project deliverable should look like and what it should do. They can be divided into six basic categories, functional, non-functional, technical, user, business, and regulatory requirements. </para>
+        <section id="id1164271598402">
+          <title>Functional requirements</title>
+          <para id="id1164225446248">Functional requirements describe the characteristics of the deliverable, what emerges from the project in ordinary non-technical language. They should be understandable to the customers, and the customers should play a direct role in their development. Functional requirements are what you want the deliverable to do. </para>
+          
+          <example id="eip-438"><para id="eip-733">
+  If you were buying vehicles for a business your functional requirement might be; <emphasis effect="italics">the vehicle should be able to take a load from a warehouse to a shop</emphasis>. 
+</para>
+</example>
+          <example id="eip-430"><para id="eip-582">
+ For a computer system you may define what the system is to do; <emphasis effect="italics">the system should store all details of a customer’s order</emphasis>. 
+</para>
+</example><para id="id1164231251916">The important point to note is that WHAT is wanted is specified, and not HOW it will be delivered. </para>
+        </section>
+        <section id="id1164268058083">
+          <title>Non-functional requirements</title>
+          <para id="id1164273719745">Non-functional requirements specify criteria that can be used to judge the product or service that your project delivers. They are restrictions or constraints to be placed on the deliverable and how to build it. Their purpose is to restrict the number of solutions that will meet a set of requirements. Using the vehicle example (<link target-id="eip-438"/>); without any constraints, the functional requirement of a vehicle to take a load from a warehouse to a shop, the solutions being offered might result in anything from a large truck to a sports car! Non-functional requirements can be split into two types: performance and development.</para>
+          <para id="id1164262293028">To restrict the types of solutions you might include these performance constraints:</para>
+          <list id="id1164265951596" list-type="bulleted">
+            <item>It must take a load of at least one ton. </item>
+            <item>The load area must be covered. </item>
+            <item>The load area must have a height of at least 10 feet. </item>
+          </list>
+          <para id="id1164236843137">Similarly, for the computer system example (<link target-id="eip-430"/>), you might specify values for the generic types of performance constraints:</para>
+          <list id="id1164242161818" list-type="bulleted">
+            <item>The response time for information to appear to a user. </item>
+            <item>The number of hours a system should be available. </item>
+            <item>The number of records a system should be able to hold. </item>
+            <item>The capacity for growth of the system. </item>
+            <item>The length of time a record should be held for auditing purposes.</item>
+          </list>
+          <para id="id1164234611472">For the customer records example these might be:</para>
+          <list id="id1164229753420" list-type="bulleted">
+            <item>The system should be available from 9 AM to 5 PM Monday to Friday. </item>
+            <item>The system should be able to hold 100,000 customer records initially. </item>
+            <item>The system should be able to add 10,000 records a year for 10 years. </item>
+            <item>A record should be fully available on the system for at least 7 years.</item>
+          </list>
+          <para id="id1164225740023">The important point with these examples is that they restrict the number of solution options that are offered to you by the developer. In addition to the performance constraints you may include some development constraints. </para>
+          <para id="id1164264972276">There are three general types of development constraints:</para>
+          <list id="id1164263806664" list-type="bulleted">
+            <item><emphasis effect="bold">Time</emphasis>: When a deliverable should be delivered </item>
+            <item><emphasis effect="bold">Resource</emphasis>: How much money is available to develop the deliverable</item>
+            <item><emphasis effect="bold">Quality</emphasis>: Any standards that are used to develop the deliverable, and develop methods, etc.</item>
+          </list>
+        </section>
+        <section id="id1164261485204">
+          <title>Technical requirements</title>
+          <para id="id1164262201505">Technical requirements emerge from the functional requirements, they answer the question, and how will the problem be solved this time; will it be solved technologically and/or procedurally. They answer how the system needs to be designed and implemented to provide required functionality and fulfill required operational characteristics. For example, in a software project, the functional requirements may stipulate that a data base system will be developed to allow access to financial data through a remote terminal; the corresponding technical requirements would spell out the architecture of the data structure, the language in which the database management system will be written, the hardware on which the system will run, telecommunication protocols that should be used and so forth. </para>
+        </section>
+        <section id="id1164256636585">
+          <title>User requirements</title>
+          <para id="id1164228018879">User requirements are what the users need to do with the system or product. They focus on the experience users need to have with the system, they can also reflect how the product will be designed, and define how test cases must be formulated.</para>
+        </section>
+        <section id="id1164256641760">
+          <title>Business requirements</title>
+          <para id="id1164235765685">Business requirements are the needs of the sponsoring organization, always from a management perspective. Business requirements are statements of the business rationale for the project. They are usually expressed in broad outcomes the business requires, rather than specific functions the system may perform. These requirements grow out of the vision for the product that, in turn, is driven by mission (or business) goals and objectives.</para>
+        </section>
+        <section id="id1164262470787">
+          <title>Regulatory requirements</title>
+          <para id="id1164225703099">Regulatory requirements can be internal or external and are usually non-negotiable. They are the restrictions, licenses and laws applicable to a product or business, imposed by the government. </para>
+        </section>
+      </section>
+      <section id="id1164242432990">
+        <title>An example of requirements</title>
+        <para id="id1164279139370">Automated teller machines (ATMs) can be used to illustrate a wide range of requirements (<link target-id="id1164225477736"/>). What are some of the physical features of these machines, and what kinds of functions do they perform for users? Why did banks put these systems in place? What high level business requirements did they have in mind?</para>
+        <figure id="id1164225477736"><media id="id1164225477736_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 1-6c12.jpg" id="id1164225477736__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>A typical exterior automated teller machines (ATMs). </caption></figure>
+        
+        <para id="eip-511">The following represents one possible example of each type of requirement as they would be applied to a bank’s external ATM. </para><list id="id1164275860162" list-type="bulleted">
+          <item><emphasis effect="bold">ATM function requirement:</emphasis> The system shall provide users with the ability to select whether or not to produce a hardcopy transaction receipt before completing a transaction. </item>
+          <item><emphasis effect="bold">ATM non-functional requirement:</emphasis> All displays shall be in white 14 pt Arial text on black background. </item>
+          <item><emphasis effect="bold">ATM user requirement:</emphasis> The system shall complete a standard withdrawal from a personal account, from login to cash, in less than two minutes for a first time user. </item>
+          <item><emphasis effect="bold">ATM business requirement:</emphasis> By providing superior service to our retail customers, Monumental Bank’s ATM network will allow us to increase associated service fee revenue by 10% annually on an ongoing basis, using a baseline of December 2008. </item>
+          <item><emphasis effect="bold">ATM regulatory requirement:</emphasis> All ATMs shall connect to standard utility power sources within their civic jurisdiction, and be supplied with uninterruptible power source approved by said company. </item>
+        </list>
+        
+        
+        <para id="eip-736">The effective specification of requirements is one of the most challenging undertakings project managers face. Inadequately specified requirements will guarantee poor project results. </para><para id="eip-492">Documenting requirements is much more than just the process of writing down the requirements as the user sees them; it should cover not only what decisions have been made but also why they have been made. Understanding the reasoning that used to arrive at a decision is critical in avoiding repetition. For example, if a particular feature has been excluded because it is simply not feasible, that fact needs to be recorded. If it is not, then the project risks wasted work and repetition when a stakeholder requests the feature be reinstated during development or testing. Once the requirements are documented, have the stakeholders sign off on their requirements as a confirmation of what they desire.</para><para id="id1164257979245">While the project manager is responsible for making certain the requirements are documented, it does not mean the project manager must perform this task. The project manager can enlist the help of stakeholders, business analysts, requirement analysts, business process owners, and other team members to conduct the interviews and document the requirements. The project manager then reviews the requirements and incorporates them into the project documentation and project plan. </para>
+      </section>
+    </section>
+    <section id="id1164225092250">
+      <title>Preparing the work breakdown structure</title>
+      <para id="id1164225107416">Now that we have the deliverables and requirements well defined, the process of breaking down the work of the project via a work breakdown structure begins. The work breakdown structure (WBS) defines the scope of the project and breaks the work down into components that can be scheduled and estimated and easily monitored and controlled. The idea behind the work breakdown schedule is simple. You subdivide a complicated task into smaller tasks, until you reach a level that cannot be further subdivided. Anyone familiar with the arrangements of folders and files in a computer memory, or who has researched their ancestral family free, should be familiar with this idea. You stop breaking down the work when you reach a low enough level to perform an estimate of the desired accuracy. At that point, it is usually easier to estimate how long the small task will take and how much it will cost to perform than it would have been to estimate these factors at the higher levels. Each descending level of the WBS represents an increased level of detailed definition of the project work.</para>
+      <para id="id1164264122665">As an example, if I want to clean a room, I might begin by picking up clothes, toys, and other things that have been dropped on the floor. I could use a vacuum cleaner to get dirt out of the carpet. I might take down the curtains and take them to the cleaners, then dust the furniture. All of these tasks are subtasks performed to clean the room. As for vacuuming the room, I might have to get the vacuum cleaner out of the closet, connect the hose, empty the bag, and put the machine back in the closet. These are smaller tasks to be performed in accomplishing the subtask called vacuuming. The diagram in <link target-id="id1164231276487"/> shows how this might be portrayed in WBS format.</para>
+      <figure id="id1164231276487"><media id="id1164231276487_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-25b7.jpg" id="id1164231276487__onlineimage" width="600" print-width="6in"/>
+        </media>
+      <caption>A work breakdown structure (WBS) for cleaning a room. </caption></figure>
+      
+      <para id="id1164271157510">It is very important to note that we do not worry about the sequence in which the work is performed or any dependencies between them when we do a WBS. That will be worked out when we develop the schedule. For example, under <emphasis effect="italics">3.0 Vacuum</emphasis> (in <link target-id="id1164231276487"/>), it would be obvious that <emphasis effect="italics">3.3 Vacuum carpet</emphasis> would be performed after <emphasis effect="italics">3.4 Connect hose and plug</emphasis>! However, you will probably find yourself thinking sequentially, as it seems to be human nature to do so. The main idea of creating a WBS is to capture all of the tasks, irrespective of their order. So if you find yourself and other members of your team thinking sequentially, don’t be too concerned, but don’t get hung up on trying to diagram the sequence or you will slow down the process of task identification. </para>
+      <para id="id1164225171720">A WBS can be structured any way it makes sense to you and your project. In practice, the chart structure is used quite often (as in the example in <link target-id="id1164231276487"/>) but it can be composed in outline form as well (<link target-id="id1164237667331"/>).</para>
+      <figure id="id1164237667331"><media id="id1164237667331_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-4293.jpg" id="id1164237667331__onlineimage" width="250" print-width="3in"/>
+        </media>
+      <caption>An outline format of a work breakdown structure (WBS) for cleaning a room. </caption></figure>
+      
+      <para id="id1164235774411">You’ll notice that each element at each level of the WBS (in either <link target-id="id1164231276487"/> or <link target-id="id1164237667331"/>) is assigned a unique identifier. This unique identifier is typically a number, and it’s used to sum and track costs, schedules, and resources associated with WBS elements. These numbers are usually associated with the corporation’s chart of accounts, which is used to track costs by category. Collectively, these numeric identifiers are known as the code of accounts.</para>
+      <para id="id1164273596824">There are also many ways you can organize the WBS. For example, it can be organized by either deliverable or phase. The major deliverables of the project are used as the first level in the WBS. For example, if you are doing a multimedia project the deliverables might include producing a book, CD and a DVD (<link target-id="id1164227969616"/>).</para>
+
+        <figure id="id1164227969616"><media id="id1164227969616_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-67df.jpg" id="id1164227969616__onlineimage" width="450" print-width="4.5in"/>
+          </media>
+        <caption>An example of a work breakdown structure (WBS) based on project deliverable.</caption></figure>
+      
+      <para id="id1164265933603">Many projects are structured or organized by project phases. Each phase would represent the first level of the WBS and their deliverables would be the next level and so on (<link target-id="id1164225109772"/>).</para>
+      <figure id="id1164225109772"><media id="id1164225109772_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-270a.jpg" id="id1164225109772__onlineimage" width="450" print-width="4.5in"/>
+        </media>
+      <caption>An example of a work breakdown structure (WBS) based on project phase. </caption></figure>
+      
+      <para id="id1164279092106">As mentioned earlier, the project manager is free to determine the number of levels in the WBS based on the complexity of the project. You need to include enough levels to accurately estimate project time and costs but not so many levels that are difficult to distinguish between components. Regardless of the number of levels in a WBS, the lowest level in a WBS is called a work package.</para>
+      <para id="id1164261439090">Work packages are the components that can be easily assigned to one person, or team of people, with clear accountability and responsibility for completing the assignment. The work package level is where time estimates, costs estimates and resource estimates are determined.<emphasis effect="italics"/></para>
+    </section>
+    <section id="id1164225417990">
+      <title>Project schedule development</title>
+      <para id="id1164274787404">Now were off and running toward the development of our project schedule. In order to develop our schedule, we first need to define the activities, sequence them in the right order, estimate resources and estimate the time it will take to complete the tasks.</para>
+      <para id="id1164259117726">The activity definition process is a further breakdown of the work package elements of the WBS. It documents the specific activities needed to fulfill the deliverable detailed in the WBS. These are not deliverables but the individual units of work that must be completed to fulfill the deliverables. Activity definition uses everything we already know about the project to divide the work into activities that can be estimated. You might want to look at all the lessons learned from similar projects your company has done to get a god idea of what you need to do on the current one. </para>
+      <para id="id1164225302702">Expert judgment in the form of project team members with prior experience developing project scope statements and WBS can help you define activities. You might also use experts in a particular field to help define tasks if you were asked to manage a project in a new domain; to help you understand what activities were going to be involved. It could be that you create an activity list and then have the expert review it and suggest changes. Alternatively, you could involve the expert from the very beginning and ask to have an activity definition conversation with him before even making your first draft of the list. </para>
+      <para id="id1164273569086">Sometimes you start a project without knowing a lot about the work that you’ll be doing later. Rolling wave planning lets you plan and schedule only the stuff that you know enough about to plan well. When you don’t know enough about a project to come up with a complete activity list, you can use a planning component as a placeholder until you know more. These are extra items put at high levels in the WBS to allow you to plan for the unknown.<emphasis effect="italics"/></para>
+      <section id="id1164261456770">
+        <title>A case study</title>
+        <para id="id1164234428078">Susan and Steve have decided to tie the knot, but they don’t have much time to plan their wedding. They want the big day to be unforgettable. They want to invite a lot of people and show them all a great time. They’ve always dreamed of a June wedding, but it’s already January. Just thinking about all of the details involved is overwhelming. Somewhere around picking the paper for the invitations, the couple realizes they need help. Susan’s been dreaming of the big day since she was 12, but it seems like there’s so little time to do it all. </para>
+        <para id="id1164227968705"><media id="id1111111_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111111__onlineimage" width="75" print-width="0.75in"/>
+        </media>
+ Steve, we need some help. </para>
+        <para id="id1164235350420"><media id="id1112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1112__onlineimage" width="75" print-width="0.75in"/>
+        </media> Don’t worry. My sister’s wedding planner was great. Let me give her a call.</para>
+        <para id="id1164273492022">So saying Steve calls the wedding planner Sally. </para>
+        <para id="id1164225614128"><media id="id1113_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1113__onlineimage" width="75" print-width="0.75in"/>
+        </media> We want everything to be perfect. </para>
+        <para id="id1164256636592"><media id="id1111112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111112__onlineimage" width="75" print-width="0.75in"/>
+        </media> There is so much to do! Invitations, food, guests, and music. </para>
+        <para id="id1164228819176"><media id="id1114_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1114__onlineimage" width="75" print-width="0.75in"/>
+        </media> Oh no, we haven’t even booked a place! </para>
+        <para id="id1164225488277"><media id="id1111113_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111113__onlineimage" width="75" print-width="0.75in"/>
+        </media> And it’s got to be done right. We can’t print the initiations until we have the menu planned. We can’t do the seating arrangements until we have the RSVPs. We aren’t sure what kind of band to get for the reception, or should it be a DJ? We’re just overwhelmed. </para>
+        <para id="id1164274706008"><media id="id1115_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1115__onlineimage" width="75" print-width="0.75in"/>
+        </media> My sister said you really saved her wedding. I know she gave you over a year to plan.</para>
+        <para id="id1164227706310"><media id="id1111114_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111114__onlineimage" width="75" print-width="0.75in"/>
+        </media> But I’ve always dreamed of a June wedding, and I’m not willing to give that up. I know it’s late, but Sally can you help us? </para>
+        <para id="id1164225304875"><media id="id1116_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Barbara.jpg" id="id1116__onlineimage" width="75" print-width="0.75in"/>
+        </media> Take it easy guys. I’ve got it under control. We’ve got a lot of people and activities to get under control. You guys really should have called six months ago, but we’ll still make this wedding happen on time. </para>
+        <para id="id1164225024554">There’s a lot to get done before June. Sally’s going to need to figure out what work needs to done before she does anything else. For this she starts to put together a to-do-list. </para>
+        <list id="id1164228827352" list-type="bulleted">
+          <item>Invitations</item>
+          <item>Flowers</item>
+          <item>Wedding Cake</item>
+          <item>Dinner Menu</item>
+          <item>Band</item>
+        </list>
+        <para id="id1164237985855">Since there are so many different people involved in making the wedding go smoothly, it takes a lot of planning to make sure all of the work happens in the right order, gets done by the right people and doesn’t take too long. Initially, Sally was worried that she didn’t have enough time to make sure everything was done properly. But she knew that she had some powerful time management tools on her side when she took the job, and they’ll help her make sure that everything will work out fine. </para>
+        <para id="id1164277927219">To get started, Sally started arranging the activities in a work breakdown structure. This is part of the WBS Sally made for the wedding. </para>
+        
+        <exercise id="eip-523"><problem id="eip-945">
+  <para id="eip-926">
+  Arrange the following activities into the WBS to show how the work items decompose into activities. 
+  </para>
+<list id="id1164263919394" list-type="bulleted">
+          <item>Shop for shoes </item>
+          <item>Create guest list</item>
+          <item>Tailoring and fitting</item>
+          <item>Shop for dress</item>
+          <item>Find caterer</item>
+          <item>Cater the wedding</item>
+          <item>Wait for RSVPs</item>
+          <item>Mail the invitations</item>
+          <item>Finalize the menu</item>
+          <item>Print the invitations</item>
+          <item>Choose the bouquet</item>
+        </list>
+     
+<para id="eip-446"><media id="id1164250191145_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-794e.jpg" id="id1164250191145__onlineimage" width="400" print-width="4in"/>
+          </media>
+      </para>
+</problem>
+
+<solution id="eip-1">
+
+
+         <para id="eip-385"><media id="id1164256990564_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-e5c0.jpg" id="id1164256990564__onlineimage" width="400" print-width="4in"/>
+            </media>
+      </para>
+
+
+</solution>
+</exercise>
+
+
+
+
+      </section>
+    
+
+
+
+<section id="id1164278159177">
+        <title>Activity definition </title>
+        <para id="id1164224877845">Now that the <emphasis effect="italics">activity definitions</emphasis> for the work packages have been completed, the next task is to complete the activity list. The <emphasis effect="italics">project activity</emphasis> list is a list of everything that needs to be done to complete your project, including all the activities that must be accomplished to deliver the work package. Next you want to define the <emphasis effect="italics">activity attributes</emphasis>. Here’s where the description of each activity is kept. All of the information you need to figure out; the order of the work should be here too. So any <emphasis effect="italics">predecessor</emphasis> activities, successor activities or constraints should be listed in the attributes along with descriptions and any other information about resources or time that you need for planning. The three main kinds of predecessors are <emphasis effect="italics">finish-to-start</emphasis> (FS), <emphasis effect="italics">start-to-start</emphasis> (SS) and <emphasis effect="italics">finish-to-finish</emphasis> (FF).</para>
+        <para id="id1164248111448">The most common kind of predecessor is the finish-to-start. It means that one task needs to be completed before another one can start. When you think of predecessors, this is what you usually think of, one thing needs to end before the next can begin. It’s called <emphasis effect="italics">finish-to-start</emphasis> because the first activity finish leads into the second activity’s start (<link target-id="id1164237800225"/>).</para>
+
+
+
+
+          <figure id="id1164237800225"><media id="id1164237800225_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-4eac.jpg" id="id1164237800225__onlineimage" width="375" print-width="3.75in"/>
+            </media>
+          <caption>An example of a finish-to-start (FS) predecessor. </caption></figure>
+     
+        
+        <para id="id1164265780507">The start-to-start predecessor is a little less common, but sometimes you need to coordinate activities so they begin at the same time (<link target-id=" id1164231247489"/>). </para>
+        <figure id="id1164231247489"><media id="id1164231247489_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-1f16.jpg" id="id1164231247489__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>An example of a start-to-start (SS) predecessor.</caption></figure>
+        
+        <para id="id1164224999258">In the finish-to-finish predecessor it shows activities that finish at the same time (<link target-id="id1164262348078"/>).</para>
+        <figure id="id1164262348078"><media id="id1164262348078_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-450e.jpg" id="id1164262348078__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>An example of a finish-to-finish (FF) predecessor. </caption></figure>
+        
+        <para id="id1164268004809">It is possible to have to have start-to-finish (SF) predecessors. This happens when activities require that a task be started before it can finish. An example might be that singing couldn’t start until after the music had started. Keep in mind that tasks like that are pretty rare and almost never show up in network diagrams. In addition there are some particular types of predecessors that must be considered. </para>
+        <section id="id1164279435666">
+          <title>External predecessors</title>
+          <para id="id1164265921880">Sometimes your project will depend on things outside the work your doing. For the wedding, we are depending on the wedding party before us to be out of the reception hall in time for us to decorate. The decoration of the reception hall then depends on that as an external predecessor.</para>
+        </section>
+        <section id="id1164231246940">
+          <title>Discretionary predecessors</title>
+          <para id="id1164278169690">These are usually process or procedure driven or "best practice" techniques based on past experience. Using the wedding example:
+Steve and Susan really want the bridesmaids to arrive at the reception before the couple. There’s no necessity there- it’s just a matter of preference. </para>
+        </section>
+        <section id="id1164281456288">
+          <title>Mandatory predecessors</title>
+          <para id="id1164272740881">You can’t address an invitation that hasn’t been printed yet. So, printing invitations is a mandatory predecessor for addressing them. Mandatory predecessors are the kinds that have to exist just because of the nature of the work.</para>
+        </section>
+      </section>
+      <section id="id1164276971829"><title>Leads and lags</title><para id="id1164271193153">Sometimes you need to give some extra time between activities. <emphasis effect="italics">Lag time</emphasis> is when you purposefully put a delay between the predecessor task and the successor. For example, when the bride and her father dance, everybody waits a while before they join them (<link target-id="id1164247768695"/>). </para>
+
+          <figure id="id1164247768695"><media id="id1164247768695_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-5d96.jpg" id="id1164247768695__onlineimage" width="200" print-width="2in"/>
+            </media>
+          <caption>A lag means making sure that one task waits a while before it gets started. </caption></figure>
+       
+        
+        <para id="id1164242313660"><emphasis effect="italics">Lead time</emphasis> is when you give a successor task some time to get started before the predecessor finishes (<link target-id="id1164254391480"/>). So you might want the caterer preparing dessert an hour before everybody is eating dinner.</para>
+        <figure id="id1164254391480"><media id="id1164254391480_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-3f28.jpg" id="id1164254391480__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>A lead is when you let a task get started before its predecessor is done.</caption></figure>
+        
+      </section>
+      <section id="id1164267991494">
+        <title>Milestones</title>
+        <para id="id1164274519454">All of the important checkpoints of your project are tracked as milestones. Some of them could be listed in your contract as requirements of successful completion; some could just be significant points in the project that you want to keep track of. The milestone list needs to let everyone know which are required and which are not.</para>
+        <para id="id1164231245368">Some milestones for Susan and Steve’s wedding might be:</para>
+        <list id="id1164263669611" list-type="bulleted">
+          <item>Invitations sent</item>
+          <item>Menu finalized</item>
+          <item>Location booked</item>
+          <item>Bridesmaids’ dresses fitted</item>
+        </list>
+        <para id="id1164225812154">As you figure out which activities will need to be done, you may realize that the scope needs to change. When that happens, you need to create a change request and send it through the change control system. So back to our couple and their nuptial plan. </para>
+        <para id="id1164225019818"><media id="id1117_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Barbara.jpg" id="id1117__onlineimage" width="75" print-width="0.75in"/>
+        </media> We just got the programs back from the printer and they’re all wrong.</para>
+        <para id="id1164265936280"><media id="id1118_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1118__onlineimage" width="75" print-width="0.75in"/>
+        </media> The quartet cancelled. They had another wedding that day.</para>
+        <para id="id1164280410256"><media id="id1111116_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111116__onlineimage" width="75" print-width="0.75in"/>
+        </media> Aunt Jane is supposed to sing at the service, but after what happened at her uncle’s funeral, I think I want someone else to do it. </para>
+        <para id="id1164240212664"><media id="id1119_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id1119__onlineimage" width="75" print-width="0.75in"/>
+        </media> Should we really have a pan flute player? I’m beginning to think it might be overkill. </para>
+        <para id="id1164279058107"><media id="id1111117_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111117__onlineimage" width="75" print-width="0.75in"/>
+        </media> Apparently! Maybe we should hold off printing the invitations until this stuff is worked out. </para>
+        <para id="id1164225494624"><media id="id112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Barbara.jpg" id="id112__onlineimage" width="75" print-width="0.75in"/>
+        </media> OK, let’s think about exactly how we want to do this. I think we need to be sure about how we want the service to go before we do any more printing. </para>
+      </section>
+      <section id="id1164277890580">
+        <title>The activity sequencing process</title>
+        <para id="id1164242514534">Now that we know what we have to do to make the wedding a success, we need to focus on the order of the work. Sally sat down with all of the activities she had defined for the wedding and decided to figure out exactly how they needed to happen. That’s where she used the <emphasis effect="italics">activity sequencing process</emphasis>. </para>
+        <para id="id1164273702341">The <emphasis effect="italics">activity attribute list</emphasis> Sally created had most of the predecessors and successors necessary written in it. This is where she thought of what comes first, second, third, etc. Sally’s <emphasis effect="italics">milestone list</emphasis><emphasis effect="bold"/> had major pieces of work written down and there were a couple of changes to the scope she had discovered along the way that were approved and ready to go.</para>
+        
+        <example id="eip-534"><para id="eip-982">
+<emphasis effect="bold">Milestone list:</emphasis> Steve and Susan had asked that the invitations be printed at least three months in advance to be sure that everyone had time to RSVP. That’s a milestone on Sally’s list.
+</para>
+</example><example id="eip-519"><para id="eip-772">
+ <emphasis effect="bold">Change request:</emphasis> When Sally realized that Steve and Susan were going to need another limo to take the bridesmaids to the reception hall, she put that change through change control- including running everything by Susan’s mother- and it was approved.
+</para>
+</example>
+      </section>
+      <section id="id1164259226533">
+        <title>Creating the network diagram</title>
+        <para id="id1164224941354">The first step in developing the schedule is to develop a network diagram of the WBS work packages. The <emphasis effect="italics">network diagram</emphasis> is a way to visualize the interrelationships of project activities. Network diagrams provide a graphical view of the tasks and how they relate to one another. The tasks in the network are the work packages of the WBS. All of the WBS tasks must be included in the network because they have to be accounted for in the schedule. Leaving even one task out of the network could change the overall schedule duration, estimated costs and resource allocation commitments. </para>
+        <para id="id1164273694499">The first step is to arrange the tasks from your WBS into a sequence (<link target-id="id1164271615230"/>). Some tasks can be accomplished at any time throughout the project where other tasks depend on input from another task or are constrained by time or resources. </para>
+        <figure id="id1164271615230"><media id="id1164271615230_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-9e0b.jpg" id="id1164271615230__onlineimage" width="550" print-width="5.5in"/>
+          </media>
+        <caption>The relationship between the work breakdown structure (WBS) and the network diagram. </caption></figure>
+        
+        <para id="id1164281302988">The WBS is not a schedule, but it is the basis for it; the network diagram is a schedule but is used primarily to identify key scheduling information that ultimately goes into user friendly schedule formats, such as milestone and Gantt charts.</para>
+        <para id="id1164276929605">The network diagram provides important information to the project team. It provides information about how the tasks are related (<link target-id="id1164271615230"/>), where the risk points are in the schedule, how long it will take as currently planned to finish the project, and when each task needs to begin and end. </para>
+        <para id="id1164275665228">In our wedding planner example, Sally would look for relationships between tasks and determined what can be done in parallel and what activities needed to wait for others to complete. As an example, <link target-id="id1164242132343"/> shows how the activities involved in producing the invitations depend on one another. Showing the activities in rectangles and their relationships as arrows is called a <emphasis effect="italics">precedence diagramming method</emphasis> (PDM). This kind of diagram is also called an <emphasis effect="italics">activity on node</emphasis> (AON) diagram. </para>
+        
+        <figure id="id1164242132343"><media id="id1164242132343_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig30.jpg" id="id1164242132343__onlineimage" width="600" print-width="6in"/>
+          </media>
+        <caption>An example of an activity on node (AON) diagram. </caption></figure>
+        
+        <para id="id1164277220969">Another way to show how tasks relate is with the <emphasis effect="italics">activity-on-arrow</emphasis> (AOA). Although <emphasis effect="italics">activity-on-node</emphasis> (AON) is more commonly used and is supported by all project management programs, PERT is the best-known AOA-type diagram and is the historical basis of all network diagramming. The main difference is the AOA diagram is traditionally drawn using circles as the nodes, with nodes representing the beginning and ending points of the arrows or tasks. In the AOA network, the arrows represent the activities or tasks (<link target-id="id1164250152330"/>).</para>
+
+
+          <figure id="id1164250152330"><media id="id1164250152330_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics15-6b2e.jpg" id="id1164250152330__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>An example of an <emphasis effect="italics">activity-on-arrow</emphasis> (AOA) network diagram. </caption></figure>
+        
+        <para id="id1164272636877">All network diagrams have the advantages as showing task interdependencies, start and end times, and the critical path (the longest path through the network) but the AOA network also has some disadvantages that limit the use of the method. </para>
+        <para id="id1164242565743">The three major disadvantages of the AOA method are:</para>
+        <list id="id1164265744936" list-type="bulleted">
+          <item>The AOA network can only show finish to start relationships. It is not possible to show lead and lag except by adding or subtracting time, which makes project tracking difficult. </item>
+          <item>There are instances when dummy activities can occur in an AOA network. Dummy activities are activities that show the dependency of one task on other tasks but for other than technical reasons. For example, a task may be dependent on another because it would be more cost effective to use the same resources for the two; otherwise the two tasks could be accomplished in parallel. Dummy activities do not have durations associated with them. They simply show that a task has some kind of dependence on another task. </item>
+          <item>AOA diagrams are not as widely used as AON simply because the latter are somewhat simpler to use and all project management software programs can accommodate AON networks, whereas not all can accommodate AOA networks. </item>
+        </list>
+      </section>
+    </section>
+    <section id="id1164271248967">
+      <title>Resource planning</title>
+      <para id="id1164240120861">In our case study it is clear that Steve and Susan have resource problems. Getting a handle on all of the tasks that have to be done is a great start, but it’s not enough to know the tasks and the order they come in. Before you can put the final schedule together, you need to know who is going to each job, and the things they need available to them in order to do it! </para>
+      <para id="id1164271369669"><media id="id1111118_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111118__onlineimage" width="75" print-width="0.75in"/>
+        </media> We’ve got so much to do! Invitations, catering, music... and I’ve got no idea who’s going to do it all. I’m totally overwhelmed.</para>
+      <para id="id1164229100068">From this statement it is clear that Susan is worried about human resources. In comparison, Steve realizes that not all resources are people! </para>
+      <para id="id1164265806182"><media id="id113_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id113__onlineimage" width="75" print-width="0.75in"/>
+        </media> And it’s not just people! We need food, flowers, a cake, a sound system, and a venue! How do we get a handle on this?</para>
+      <para id="id1164276815475">Resources are people, equipment, locations, or anything else that you need in order to do all of the activities that you planned for. Every activity in your activity list needs to have resources assigned to it. Before you can assign resources to your project, you need to know which ones you’re authorized to use; that’s called resource availability. Resource availability includes information about what resources you can use on your project and when they’re available to you. Don’t forget that some resources like consultants or training rooms have to be scheduled in advance, and they might only be available at certain times. You’ll need to know this before you can finish planning your project. If you are starting to plan in January, a June wedding is harder to plan than one in December, because the wedding halls are all booked up in advance. That is clearly a resource constraint. You’ll also need the activity list that you created earlier, and you’ll need to know about how your organization typically handles resources. Once you’ve got a handle on these things, you’re set for resource estimation. </para>
+      <section id="id1164277249057">
+        <title>Estimating the resources </title>
+        <para id="id1164271570552">The goal of activity resource estimating is to assign resources to each activity in the activity list. There are five tools and techniques for the activity resource estimating process. Some of them have technical sounding names, but they’re all actually pretty sensible when you think about it. They should make sense to you when you think about what you have to do when you have to figure out what resources your project needs.</para>
+        <list id="id1164256920557" list-type="bulleted"><item><emphasis effect="bold">Expert judgment</emphasis> means bringing in experts who have done this sort of work before and getting their opinions on what resources are needed (<link target-id="id1164265918221"/>).</item>
+	<item><emphasis effect="bold">Alternative analysis</emphasis> means considering several different options for how you assign resources. This includes varying the number of resources as well as the kind of resources you use. Many times, there’s more than one way to accomplish an activity and alternative analysis helps decide among the possibilities.</item>
+	<item><emphasis effect="bold">Published estimating data</emphasis> is something that project managers in a lot of industries use to help them figure out how many resources they need. They rely on articles, books, journals, and periodicals that collect, analyze, and publish data from other people’s projects.</item>
+	<item><emphasis effect="bold">Project management software </emphasis>such as Microsoft project will often have features designed to help project managers estimate resource needs and constraints and find the best combination of assignments for the project.</item>
+	<item><emphasis effect="bold">Bottom-up estimating</emphasis> means breaking down complex activities into pieces and working out the resource assignments for each piece. It is a process of estimating these individual activities or costs and then adding these up together to come up with a total estimate. Here you estimate every scheduled activity individually and then roll up that estimate; or add them all together, to come up with a total. Bottom-up estimating is a very accurate means of estimating, provided the estimates at the schedule activity level are accurate. However, it takes a considerable amount of time to perform bottom-up estimating because every activity must be accessed and estimated accurately to be included in the bottom-up calculation. The smaller and more detailed the activity, the greater the accuracy and cost of this technique.</item>
+</list>
+        <figure id="id1164265918221"><media id="id1164265918221_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-71b8.jpg" id="id1164265918221__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>“I know nothing about the subject but I am happy to give you my expert opinion”. Copyright Tribune Media Services (2007). </caption></figure>
+        
+        <para id="id1164277934843">In each of the following scenarios for planning Steve and Susan’s wedding determine which of the five activity resource estimation tools and techniques is being used. </para>
+        
+        <exercise id="eip-904"><problem id="eip-254">
+  <para id="eip-801">
+Sally has to figure out what to do for the music at Steve and Susan’s wedding. She considers using a DJ, a rock band, or a string quartet.
+  </para>
+</problem>
+
+<solution id="eip-89">
+  <para id="eip-587">
+    Alternative analysis. 
+  </para>
+</solution>
+</exercise>
+        
+        
+        <exercise id="eip-637"><problem id="eip-363">
+  <para id="eip-784">The latest issue of <emphasis effect="italics">Wedding Planner’s Journal</emphasis>  has an article on working with caterers. It includes a table that shows how many waiters work with varied guest-list sizes. 
+  </para>
+</problem>
+
+<solution id="eip-759">
+  <para id="eip-10">
+    Published estimating data. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-912"><problem id="eip-814">
+  <para id="eip-747">
+  There’s a national wedding consultant who specializes in Caribbean themed weddings. Sally gets in touch with her to ask about menu options. 
+  </para>
+</problem>
+
+<solution id="eip-812">
+  <para id="eip-700">
+    Expert judgment. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-320"><problem id="eip-196">
+  <para id="eip-462">
+    Sally downloads and fills out a specialized spreadsheet that a project manager developed to help with wedding planning.
+  </para>
+</problem>
+
+<solution id="eip-103">
+  <para id="eip-668">
+    Project management software. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-704"><problem id="eip-434">
+  <para id="eip-107">
+  There’s so much work that has to be done to set up the reception hall that Sally has to break it down into five different activities in order to assign jobs. 
+  </para>
+</problem>
+
+<solution id="eip-698">
+  <para id="eip-798">
+Bottom-up estimating
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-355"><problem id="eip-909">
+  <para id="eip-604">
+    Sally asks Steve and Susan to visit several different caterers and sample various potential items for the menu.
+  </para>
+</problem>
+
+<solution id="eip-961">
+  <para id="eip-418">
+Alternative analysis
+  </para>
+</solution>
+</exercise><exercise id="eip-817"><problem id="eip-127">
+  <para id="eip-63">
+   Sally calls up her friend who knows specifics of the various venues in their area for advice on which one would work best.
+  </para>
+</problem>
+
+<solution id="eip-934">
+  <para id="eip-28">
+Expert judgment. 
+  </para>
+</solution>
+</exercise>
+        
+      </section>
+      <section id="id1164258861602">
+        <title>Estimating activity durations</title>
+        <para id="id1164265548124">Once you’re done with <emphasis effect="italics">activity resource estimating</emphasis>, you’ve got everything you need to figure out how long each activity will take. That’s done in a process called <emphasis effect="italics">activity duration estimating</emphasis>. This is where you look at each activity in the activity list, consider the scope and the resources and estimate how long it will take to perform.</para>
+        <para id="id1164254479535">Estimating the duration of an activity means starting with the information you have about that activity and the resources that are assigned to it, and then working with the project team to come up with an estimate. Most of the time you’ll start with a rough estimate and then refine it to make it more accurate. You’ll use these five tools and techniques to create the most accurate estimates:</para>
+        <list id="id1164267777079" list-type="bulleted">
+          <item><emphasis effect="bold">Expert judgment</emphasis> will come from your project team members who are familiar with the work that has to be done. If you don’t get their opinion, then there’s a huge risk that your estimates will be wrong.</item>
+          <item><emphasis effect="bold">Analogous estimating</emphasis> is when you look at activities from previous projects that were similar to this one and look at how long it took to do similar work before. But this only works if the activities and the project team are similar!</item>
+          <item><emphasis effect="bold">Parametric estimating</emphasis> means plugging data about your project into a formula, spreadsheet, database, or computer program that comes up with an estimate. The software or formula that you use for parametric estimating is built on a database of actual durations from past projects.</item>
+          <item><emphasis effect="bold">Three-point estimates</emphasis> are when you come up with three numbers: a realistic estimate that’s most likely to occur, an optimistic one that represents the best-case scenario, and a pessimistic one that represents the worst-case scenario. The final estimate is the average.</item>
+          <item><emphasis effect="bold">Reserve analysis</emphasis> means adding extra time to the schedule (called a contingency reserve or a buffer) to account for extra risk.</item>
+        </list>
+        <para id="id1164279436766">In each of the following scenarios for planning Steve and Susan’s wedding determine which of the five activity duration estimation tools and techniques is being used. </para>
+        
+        
+        <exercise id="eip-152"><problem id="eip-561">
+  <para id="eip-488">
+Sally comes up with three estimates (one where everything goes wrong, one where some things go wrong, and one where nothing goes wrong) for printing invitations, and average them together to come up with a final number. 
+  </para>
+</problem>
+
+<solution id="eip-721">
+  <para id="eip-325">
+   Three-point estimate. 
+  </para>
+</solution>
+</exercise><exercise id="eip-453"><problem id="eip-674">
+  <para id="eip-120">
+Sally comes up with three estimates (one where everything goes wrong, one where some things go wrong, and one where nothing goes wrong) for printing invitations, and averages them together to come up with a final number.
+  </para>
+</problem>
+
+<solution id="eip-24">
+  <para id="eip-525">
+Three-point estimate. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-859"><problem id="eip-44">
+  <para id="eip-148">
+   There are two different catering companies at the wedding. Sally asks the head chef at each of them to give her an estimate of how long it will take each of them to do the job. 
+  </para>
+</problem>
+
+<solution id="eip-809">
+  <para id="eip-644">
+Expert judgment. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-23"><problem id="eip-509">
+  <para id="eip-768">There’s a spreadsheet Sally always uses to figure out how long it takes guest to RSVP. She enters the number of guests and their zip codes, and it calculates estimates for her.
+  </para>
+</problem>
+
+<solution id="eip-841">
+  <para id="eip-78">
+Parametric estimating. 
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-183"><problem id="eip-570">
+  <para id="eip-824">
+Sally’s done four weddings that are very similar to Steve and Susan’s, and in all four of them it took exactly the same amount of time for the caterers to set up the reception hall.
+  </para>
+</problem>
+
+<solution id="eip-442">
+  <para id="eip-892">
+Analogous estimating. 
+  </para>
+</solution>
+</exercise><para id="id1164227886306">You’ve got a list of activities, you know what resources are needed to actually do each activity, and you’ve got your estimation tools and techniques, now you have enough information to create the estimate! The <emphasis effect="italics">activity duration estimates</emphasis> are an estimate of how long each activity in the activity list will take. This is a quantitative measure usually expressed in hours, weeks, days, or months. Any work period is fine, and you’ll use different work periods for different jobs. A small job (like booking a DJ) may just take a few hours; a bigger job (like catering-including deciding on a menu, ordering ingredients, cook food and serving guests on the big day) could take days. </para>
+        <para id="id1164242595321">Another thing to keep in mind when estimating the duration of the activities, is determining the effort involved. Duration is the amount of the time that an activity takes, while effort if the total number of person-hours that are expended. If it takes two people six hours to carve the ice sculpture for the centerpiece of a wedding, the duration is six hours. But if two people worked on it for the whole time, it took twelve person-hours of effort to create! </para>
+        <para id="id1164272423563">You’ll also learn more about the specific activities while you’re estimating them. That’s something that always happens. You have to really think through all of the aspects of a task in order to estimate it. As you learn more about the specific activities remember to update the <emphasis effect="italics">activity attributes</emphasis>.</para>
+        <para id="id1164281256639">If we go back to our case study of the wedding we can see that while Sally has got a handle on how long things are going to take, that’s not enough to get the job done. She still has some work to do before she’s got the whole project under control. Steve and Susan know where they want to get married, and they’ve got the place booked now, but what about the caterer? They have no idea who’s going to be providing food. And what about the band they want? Will the timing with their schedule work out? </para>
+        <para id="id1164260301381"><media id="id1111119_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id1111119__onlineimage" width="75" print-width="0.75in"/>
+        </media> If the caterers come too early, the food will sit around under heat lamps! But, if they come too late, then the band won’t have time to play. I just don’t see how we’ll ever work this out! </para>
+        <para id="id1164227919852">It’s not easy to plan for a lot of resources when they have tight time restrictions and overlapping constraints. How do you figure out a schedule that makes everything fit together? You’re never going to have the complete resource picture until your done building the schedule. And the same goes for your <emphasis effect="italics">activity list</emphasis> and <emphasis effect="italics">duration estimates</emphasis> too! It’s only when you lay out the schedule that you’ll figure out that some of your activities and durations didn’t quite work. </para>
+      </section>
+      <section id="id1164225006813">
+        <title>Project schedule</title>
+        <para id="id1164242213429">The project schedule should be approved and signed off by stakeholders and functional managers. This assures they have read the schedule, understand the dates and resource commitments, and will likely cooperate. You’ll also need to obtain confirmation that will be available as outlined in the schedule. The schedule cannot be finalized until you receive approval and commitment for the resource assignments outlined in it. </para>
+        <para id="id1164266829943">Once the schedule is approved, it will become your baseline for the remainder of the project. Project progress and task completion will be monitored and tracked against the project schedule to determine if the project is on course as planned. </para>
+        <para id="id1164260296852">The schedule can be displayed in a variety of ways, some of which are variations of what you have already seen. Project schedule network diagrams will work as schedule diagrams when you add the start and finish dates to each activity. These diagrams usually show the activity dependencies and critical path. </para>
+        <para id="id1164277165066">The critical path method is an important tool for keeping your projects on track. Every network diagram has something that is called the critical path. It’s the string of activities that, if you add up all of the durations, is longer than any other path through the network. It usually starts with the first activity in the network and usually ends with the last one. </para>
+        <para id="id1164278122629"><media id="id115_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id115__onlineimage" width="75" print-width="0.75in"/>
+        </media> Aunt Jane is a vegetarian. That won’t be a problem, right? </para>
+        <para id="id1164266751739"><media id="id111112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id111112__onlineimage" width="75" print-width="0.75in"/>
+        </media> Well, let’s see. What menu did we give the caterers?</para>
+        <para id="id1164234665309"><media id="id11155_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id11155__onlineimage" width="75" print-width="0.75in"/>
+        </media> We didn’t give it to them yet; because we won’t have the final menu until everyone RSVPs and lets us know which entrée they want.</para>
+        <para id="id1164228044641"><media id="id11112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id11112__onlineimage" width="75" print-width="0.75in"/>
+        </media> But they can’t RSVP because we haven’t sent out the invitations! What’s holding that up? </para>
+        <para id="id1164227645286"><media id="id11156_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id11156__onlineimage" width="75" print-width="0.75in"/>
+        </media> We’re still waiting to get them back from the printer. We can’t send them out if we don’t have them yet! </para>
+        <para id="id1164274941414"><media id="id11113_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id11113__onlineimage" width="75" print-width="0.75in"/>
+        </media> Oh no! I still have to tell the printer what to print on the invitations, and what paper to use.</para>
+        <para id="id1164225282870"><media id="id11157_media" alt="">
+          <image mime-type="image/jpg" src="../../media/George.jpg" id="id11157__onlineimage" width="75" print-width="0.75in"/>
+        </media> But you were waiting on that until we finished the guest list.</para>
+        <para id="id1164280607016"><media id="id11114_media" alt="">
+          <image mime-type="image/jpg" src="../../media/June.jpg" id="id11114__onlineimage" width="75" print-width="0.75in"/>
+        </media> What a mess!</para>
+        <para id="id1164276054896">Steve thought Aunt Jane being a vegetarian was just a little problem. But it turns out to be a lot bigger than either Steve or Susan realized at first! How’d a question about one guest’s meal lead to such a huge mess? </para>
+        <para id="id1164261600706">The reason that the critical path is <emphasis effect="italics">critical </emphasis>is that every single activity on the path must finish on time in order for the project to come in on time. A delay in any one of the critical path activities will cause the entire project to be delayed (<link target-id="id1164227651594"/>).</para>
+
+
+
+          <figure id="id1164227651594"><media id="id1164227651594_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics20.jpg" id="id1164227651594__onlineimage" width="600" print-width="6in"/>
+            </media>
+          <caption>An example of problems that can be caused within the critical path. </caption></figure>
+        
+        <para id="id1164224722527">Knowing where your critical path is can give you a lot of freedom. If you know an activity is not on the critical path, then you know a delay in that activity may not necessarily delay the project. This can really help you handle emergency situations. Even better, it means that if you need to bring your project in earlier than was originally planned, you know that by adding resources to the critical path will be much more effective than adding them elsewhere.</para>
+        <para id="id1164258132939">It’s easy to find the critical path in any project! Of course, on a large project with dozens or hundreds of tasks, you’ll probably use software like Microsoft Project to find the critical path for you. But when it does, it’s following the same exact steps that are followed here.</para>
+
+
+
+<list id="id1164227707521" list-type="enumerated" number-style="arabic" class="stepwise">
+
+
+<item>
+       <para id="eip-396">Start with a network diagram. </para>
+  <para id="id1164276817102"><media id="id1164265426021_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics21.jpg" id="id1164265426021__onlineimage" width="500" print-width="5in"/>
+            </media>
+        </para>
+</item>
+
+
+
+<item>
+<para id="id1111">Find all the paths in the diagram. A path is any string of activities that goes from the start of the project to the end.</para>
+
+<para id="id1112"><media id="id1164268011800_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22.jpg" id="id1164268011800__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</para>
+
+<para id="id1113">  <media id="id1164256702095_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics23.jpg" id="id1164256702095__onlineimage" width="500" print-width="4.5in"/>
+            </media></para>
+
+<para id="id1114"> <media id="id1164237593457_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics24.jpg" id="id1164237593457__onlineimage" width="500" print-width="4.5in"/>
+            </media></para>
+</item>
+
+
+
+
+<item>
+<para id="id1116">Find the duration of each path by adding up the durations of each of the activities on the path.</para>
+<para id="id1117"><media id="id1164228984938_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics25.jpg" id="id1164228984938__onlineimage" width="500" print-width="4.5in"/>
+          </media></para>
+<para id="id1118">  <media id="id1164250260325_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics26.jpg" id="id1164250260325__onlineimage" width="500" print-width="4.5in"/>
+          </media></para>
+<para id="id1119"> <media id="id1164249126814_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics27.jpg" id="id1164249126814__onlineimage" width="500" print-width="4.5in"/>
+          </media></para>
+</item>
+
+
+          <item>The first path has a duration of 11, which is longer than the other paths, so it’s the critical path!</item>
+        </list>
+
+   
+
+        <para id="id1164273652274">The schedule can also be displayed using a <emphasis effect="italics">Gantt chart</emphasis> (<link target-id="id1164279430442"/>). Gantt charts are easy to read and commonly used to display schedule activities. Depending on the software you use to display the Gantt chart, it might also show activity sequences, activity start and end dates, resource assignments, activity dependencies, and the critical path. Gantt charts are also known as bar charts. </para>
+
+          <figure id="id1164279430442"><media id="id1164279430442_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 9.png" id="id1164279430442__onlineimage" width="600" print-width="6in"/>
+            </media>
+          <caption>An example of a Gantt chart. </caption></figure>
+    
+        
+      </section>
+    </section>
+    <section id="id1164275972898">
+      <title>Budget Planning</title>
+      <para id="id1164262406791">Every project boils down to money. If you had a bigger budget, you could probably get more people to do your project more quickly and deliver more. That’s why no project plan is complete until you come up with a budget (<link target-id="id1164227629697"/>). But no matter whether your project is big or small, and no matter how many resources and activities are in it, the process for figuring out the bottom line is always the same. </para>
+
+
+      <figure id="id1164227629697"><media id="id1164227629697_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics28.jpg" id="id1164227629697__onlineimage" width="550" print-width="5.5in"/>
+        </media>
+      <caption>Defining the priority of a budget! Copyright: United Features Syndicate, Inc. (2003). </caption></figure>
+      
+      <para id="id1164277204283">It is important to come up with detailed estimates of all the project costs. Once this is obtained, add up the cost estimates into a budget plan. It is now possible to track the project according to that budget while the work is ongoing. </para>
+      <para id="id1164267776003">A lot of times you come into a project and there is already an expectation of how much it will cost or how much time it will take. When you make an estimate really early in the project and you don’t know much about it, that estimate is called a <emphasis effect="italics">rough order of magnitude</emphasis> estimate (or a ballpark estimate). It’s expected that this estimate will become more refined as time goes on and you learn more about the project. Here are some more tools and techniques used to estimate cost:</para>
+      <list id="id1164254592731" list-type="bulleted">
+        <item><emphasis effect="bold">Determine resource cost rates:</emphasis> People who will be working on the project all work at a specific rate. Any materials you will use to build the project (like wood or wiring) will be charged at a rate too. This just means figuring out what the rate for labor and materials will be. </item>
+        <item><emphasis effect="bold">Vendor bid analysis:</emphasis> Sometimes you will need to work with an external contractor to get your project done. You might even have more than one contractor bid on the job. This tool is all about evaluating those bids and choosing the one you will go with.</item>
+        <item><emphasis effect="bold">Reserve analysis:</emphasis> You need to set aside some money for cost overruns. If you know that your project has a risk of something expensive happening, better to have some cash lying around to deal with it. Reserve analysis means putting some cash away just in case.</item>
+        <item><emphasis effect="bold">Cost of quality:</emphasis> You will need to figure the cost of all your quality related activities into the overall budget, too. Since it’s cheaper to find bugs earlier in the project than later, there are always quality costs associated with everything your project produces. Cost of quality is just a way of tracking the cost of those activities and is how much money it takes to do the project right.</item>
+      </list>
+      <para id="id1164242299314">Once you apply all the tools in this process, you will arrive at an estimate for how much your project will cost. It’s always important to keep all of your supporting estimate information, too. That way, you know the assumptions you made when you were coming up with your numbers. Now you are ready to build your budget plan. </para>
+    </section>
+    <section id="id1164277115464">
+      <title>Procurement planning</title>
+      <para id="id1164273458450">Procurement management follows a logical order. First, you plan what you need to contract; then you plan how you’ll do it. Next, you send out your contract requirements to sellers. They bid for the chance to work with you. You pick the best one, and then you sign the contract with them. Once the work begins, you monitor it to make sure the contract is being followed. When the work is done, you close out the contract and fill out all the paperwork. </para>
+      <para id="id1164274538501">You will need to start with a plan for the whole project. You need to think about all of the work that you will contract out for your project before you do anything else. You will want to plan for any purchases and acquisitions. Here’s where you take a close look at your needs, to be sure that you really need to create a contract. You figure out what kinds of contracts make sense for your project, and you try to define all of the parts of your project that will be contracted out. </para>
+      <para id="id1164260426963">Contract planning is where you plan out each individual contract for the project work. You work out how you manage the contract, what metrics it will need to meet to be considered successful, how you’ll pick a seller, and how you’ll administer the contract once the work is happening.</para>
+      <para id="id1164238093839">The <emphasis effect="italics">procurement management plan</emphasis> details how the procurement process will be managed. It includes the following information: </para>
+      <list id="id1164247943031" list-type="bulleted">
+        <item>The types of contracts you plan to use, and any metrics that will be used to measure the contractor’s performance.</item>
+        <item>The planned delivery dates for the work or products you are contracting. </item>
+        <item>The company’s standard documents you will use. </item>
+        <item>How many vendors or contractors are involved and how they will be managed.</item>
+        <item>How purchasing may impact the constraints and assumptions of the project plan.</item>
+        <item>Coordination of purchasing lead times with the development of the project schedule.</item>
+        <item id="id1164262610242">Identification of prequalified sellers (if known).</item>
+      </list>
+      <para id="id1164234437234">The procurement management plan like all other management plans becomes a subsidiary of the project management plan. Some tools and techniques you may use during the procurement planning stage include make or buy analysis and defining the contract type. </para>
+      <section id="id1164227965241">
+        <title>Make or buy analysis</title>
+        <para id="id1164227979116">This means figuring out whether or not you should be contracting the work or doing it yourself. It could also mean deciding whether to build a solution to your problem or buy one that is already available. Most of the same factors that help you make every other major project decision will help you with this one. How much does it cost to build it as opposed to buy it? How will this decision affect the scope of your project? How about project schedule? Do you have time to do the work and still meet your commitments? As you plan out what you will and won’t contract, you need to have thought through your reasoning pretty carefully. </para>
+        <para id="id1164225181837">There are some resources (like heavy equipment) that your company can buy, rent, or lease depending on the situation. You’ll need to examine leasing versus buying costs and determine the best way to go forward.</para>
+      </section>
+      <section id="id1164224982440">
+        <title>Contract types</title>
+        <para id="id1164280191398">You should know a little bit about the major kinds of contracts available to you so that you choose the one that creates the most fair and workable deal for you and the contractor. Some contracts are <emphasis effect="italics">fixed price</emphasis>: no matter how much time or effort goes into them, you always pay the same (<link target-id="id1164271631702"/>). Some are <emphasis effect="italics">cost reimbursable</emphasis> also called <emphasis effect="italics">cost plus</emphasis> (<link target-id="id1164247734559"/>). This is where the seller charges you for the cost of doing the work plus some fee or rate. The third major kind of contract is <emphasis effect="italics">time and materials</emphasis> (<link target-id="id1164231051214"/>). That’s where the buyer pays a rate for the time spent working on the project and also pays for all the materials used to do the work. </para>
+
+
+        <figure id="id1164271631702"><media id="id1164271631702_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics29.jpg" id="id1164271631702__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>A fixed price contract the cost (or revenue to the vendor) is constant regardless of effort applied or delivery date. </caption></figure>
+        
+        <figure id="id1164247734559"><media id="id1164247734559_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics30.jpg" id="id1164247734559__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>In a cost reimbursable or cost plus contract, the seller is guaranteed a specific fee. </caption></figure>
+        
+        <figure id="id1164231051214"><media id="id1164231051214_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics31.jpg" id="id1164231051214__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>In a time and materials contract the cost (or revenue to the vendor) increases with increased effort. </caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1164225156242">
+      <title>Risk management planning</title>
+      <para id="id1164282517184">Even the most carefully planned project can run into trouble. No matter how well you plan, your project can always run into unexpected problems. Team members get sick or quit, resources that you were depending on turn out to be unavailable, even the weather can throw you for a loop. For example, Hurricane Ike. So does that mean that you’re helpless against unknown problems? No! You can use risk planning to identify potential problems that could cause trouble for your project, analyze how likely they’ll be to occur, take action to prevent the risks you can avoid, and minimize the ones that you can’t.</para>
+      <para id="id1164225697286">A risk is any uncertain event or condition that might affect your project. Not all risks are negative. Some events (like finding an easier way to do an activity) or conditions (like lower prices for certain materials) can help your project. When this happens, we call it an opportunity; but it’s still handled just like a risk. </para>
+      <para id="id1164267906702">There are no guarantees on any project. Even the simplest activity can turn into unexpected problems. Any time there’s anything that might occur on your project and change the outcome of a project activity, we call that a risk. A risk can be an event (like a hurricane) or it can be a condition (like an important part being unavailable). Either way, it’s something that may or may not happen ...but if it does, then it will force you to change the way you and your team will work on the project. </para>
+      <para id="id1164224888748">If your project requires that you stand on the edge of a cliff, then there’s a risk that you could fall (<link target-id="id1164225805638"/>). If it’s very windy out or if the ground is slippery and uneven, then falling is more likely. </para>
+
+
+        <figure id="id1164225805638"><media id="id1164225805638_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics32.jpg" id="id1164225805638__onlineimage" width="600" print-width="6in"/>
+          </media>
+        <caption>Potential ways to handle risk in a project. </caption></figure>
+ 
+
+     
+      <para id="id1164224961281">When you’re planning your project, risks are still uncertain: they haven’t happened yet. But eventually, some of the risks that you plan do happen. And that’s when you have to deal with them. There are four basic ways to handle a risk.</para>
+      <list id="id1164279466808" list-type="enumerated" number-style="arabic"><item><emphasis effect="bold">Avoid:</emphasis> The best thing that you can do with a risk is to avoid it. If you can prevent it from happening, it definitely won’t hurt your project. The easiest way to avoid this risk is to walk away from the cliff (<link target-id="id1164225805638"/>), but that may not be an option on this project. </item>
+        <item><emphasis effect="bold">Mitigate:</emphasis> If you can’t avoid the risk, you can mitigate it. This means taking some sort of action that will cause it to do as little damage to your project as possible (<link target-id="id1164225805638"/>). </item>
+        <item><emphasis effect="bold">Transfer:</emphasis> One effective way to deal with a risk is to pay someone else to accept it for you (<link target-id="id1164225805638"/>). The most common way to do this is to buy insurance. </item>
+        <item><emphasis effect="bold">Accept:</emphasis> When you can’t avoid, mitigate, or transfer a risk, then you have to accept it (<link target-id="id1164225805638"/>). But even when you accept a risk, at least you’ve looked at the alternatives and you know what will happen of it occurs. If you can’t avoid the risk, and there’s nothing you can do to reduce its impact, then accepting it is your only choice. </item>
+      </list>
+      <para id="id1164261415351">By the time a risk actually occurs on your project, it’s too late to do anything about it. That’s why you need to plan for risks from the beginning and keep coming back to do more planning throughout the project.</para>
+      <para id="id1164267981252">The <emphasis effect="italics">risk management</emphasis> plan tells you how you’re going to handle risk in your project. It documents how you’ll access risk on the project, who is responsible for doing it, and how often you’ll do risk planning (since you’ll have to meet about risk planning with your team throughout the project.)</para>
+      <para id="id1164240165634">The plan has parts that are really useful for managing risks. </para>
+      <list id="id1164224995738" list-type="bulleted">
+        <item><emphasis effect="bold">Risk categories</emphasis> that you’ll use to classify your risks. Some risks are technical, like a component that might turn out to be difficult to use. Others are external, like changes in the market or even problems with the weather.</item>
+        <item><emphasis effect="bold">Risk breakdown structure (RBS)</emphasis> is a great tool for managing your risk categories. It looks like a WBS, except instead of tasks it shows how the risks break down into categories.</item>
+      </list>
+      <para id="id1164262662776">It’s important to come up with guidelines to help you figure out how big a risk’s impact is. The impact tells you how much damage the risk will cause to your project. A lot of projects classify impact on a scale from minimal to severe, or from very low to very high. The plan should also give you a scale to help figure out the probability of the risk. Some risks are very likely; others aren’t. </para>
+    </section>
+    <section id="id1164224931036">
+      <title>Quality planning </title>
+      <para id="id1164225670200">It’s not enough to make sure you get it done on time and under budget. You need to be sure you make the right product to suit your stakeholders’ needs. Quality means making sure that you build what you said you would and that you do it as efficiently as you can. That means trying not to make too many mistakes and always keeping your project working toward the goal of creating the right product!</para>
+      <para id="id1164273715985">Everybody “knows” what quality is. But the way the word is used in everyday life is a little different that how it is used in project management. Just like the tripe constraint, scope, cost, and schedule- you manage quality on your project by setting goals and taking measurements. That’s why you need to understand the quality levels your stakeholders believe are acceptable, and that your projects meet those targets; just like it needs to meet their budget and schedule goals.</para>
+      <list id="id1164265831494" list-type="bulleted">
+        <item><emphasis effect="bold">Customer satisfaction</emphasis> is about making sure that the people who are paying for the end product are happy with what they get. When the team gathers requirements for the specification, they try to write down all of the things that the customers want in the product so that you know how to make them happy. Some requirements can be left unstated, too. Those are the ones that are implied by the customer’s explicit needs. For example: some requirements are just common sense, like a product that people hold can’t be made from toxic chemicals that kill you. It might not be stated, but it’s definitely a requirement! </item>
+        <item><emphasis effect="bold">Fitness to use</emphasis> is about making sure that the product you build has the best design possible to fit the customer’s needs. Which would you choose: a product that’s beautifully designed, well constructed, solidly built and all around pleasant to look at but does not do what you need, or a product that does what you want despite being really ugly and hard to use? You’ll always choose the product that fits your needs, even if it’s seriously limited. That’s why it’s important that the product both does what it is supposed to do and does it well. For example: you could pound in a nail with a screwdriver, but a hammer is better fit for the job. </item>
+        <item><emphasis effect="bold">Conformance to requirements</emphasis> is the core of both customer satisfaction and fitness to use, and is a measure of how well your product does what you intend. Above all, your product needs to do what you wrote down in your requirements document. Your requirements should take into account what will satisfy your customer and the best design possible for the job. That means conforming to both stated and implied requirements.</item>
+      </list>
+      <para id="id1164225484739">In the end, your product’s quality is judged by whether you built what you said you would build. </para>
+      <para id="id1164234428273">Quality planning focuses on taking all of the information available to you at the beginning of your project and figuring out how you will measure your quality and prevent defects. Your company should have a quality policy that tells how it measures quality across the organization. You should make sure your project follows the company policy and any governmental rules or regulations on how you need to plan quality for your project.</para>
+      <para id="id1164280410662">You need to plan out which activities you’re going to use to measure the quality of the product of your project. And you need to be sure the activities you plan are going to pay off in the end. So you’ll need to think about the cost of all the quality-related activities you want to do. Then you’ll need to set some guidelines for what you going to measure against. Finally, you’ll need to design the tests you’re going to run when the product is ready to be tested. </para>
+      <section id="id1164225730089">
+        <title>Quality planning tools</title>
+        <para id="id1164267889943">The following represents the quality planning tools available to the project manager. </para>
+        <list id="id1164225622389" list-type="bulleted">
+          <item><emphasis effect="bold">Cost benefit analysis</emphasis> is looking at how much your quality activities will cost versus how much you will gain from doing them. The costs are easy to measure; the effort and resources it takes to do them are just like any other task on your schedule. Since quality activities don’t actually produce a product, it is harder for people to measure the benefit sometimes. The main benefits are less re-work, higher productivity and efficiency and more satisfaction from both the team and the customer.</item>
+          <item><emphasis effect="bold">Benchmarking</emphasis> means using the results of quality planning on other projects to set goals for your own. You might find that the last project in your company had 20% fewer defects than the one before it. You should want to learn from a project like that and put in practice any of the ideas they used to make such a great improvement. Benchmarks can give you some reference points for judging your own project before you even get started with the work.</item>
+          <item><emphasis effect="bold">Design of experiments</emphasis> is the list of all the kinds of tests you are going to run on your product. It might list all the kinds of test procedures you’ll do, the approaches you’ll take, and even the tests themselves. (In the software world, this is called test planning).</item>
+          <item><emphasis effect="bold">Cost of quality</emphasis> is what you get when you add up the cost of all the prevention and inspection activities you are going to do on your project. It doesn’t just include the testing. It includes any time spent writing standards, reviewing documents, meeting to analyze the root causes of defects, re-work to fix the defects once they’re found by the team; absolutely everything you do to ensure quality on the project. </item>
+        </list>
+        <para id="id1164224223562">Cost of quality can be a good number to check whether your project is doing well or having trouble. Say your company tracks cost of quality on all of its projects. Then you could tell if you were spending more or less than they are to get your project up to quality standards.</para>
+        <para id="id1164238117555">Once you have your quality plan, you know your guidelines for managing quality on your project. Your strategies for monitoring your project quality should be included in the plan, as well as the reasons for all the steps you are taking. It’s important that everyone on the team understand the rationale behind the metrics being used to judge success or failure of the project.</para>
+      </section>
+    </section>
+    <section id="id1164225117388">
+      <title>Communication planning</title>
+      <para id="id1164224948162">Communications management is about keeping everybody in the loop. Have you ever tried talking to someone in a really loud, crowded room? That’s what running a project is like if you don’t get a handle on communications. The communications planning process concerns defining the types of information you’re going to deliver, to whom, the format for communicating the information and when. It turns out that 90% of a project manager’s job is spent on communication so it’s important to make sure everybody gets the right message at the right time.</para>
+      <para id="id1164271243747">The first step in defining your communication plan is figuring out what kind of communication your stakeholders need from the project so that they can make good decisions. This is called the <emphasis effect="italics">communications requirements analysis</emphasis>. Your project will produce a lot of information; you don’t want to overwhelm your stakeholders with all of it. Your job here is to figure out what they feel is valuable. Communicating valuable information doesn’t mean you always paint a rosy picture. Communications to stakeholders may consist of either good news or bad news- the point is that you don’t want to bury stakeholders in too much information but give them enough so that they’re informed and can make appropriate decisions.</para>
+      <para id="id1164236479460"><emphasis effect="italics">Communications technology</emphasis> has a major impact on how you can keep people in the loop. This examines the methods (or technology) used to communicate the information to, from and among the stakeholders. Methods of communicating can take many forms, such as written, spoken, e-mail, formal status reports, meetings, online databases, online schedules, project websites and so forth. You should consider several factors before deciding what methods you’ll choose to transfer information. The timing of the information exchange or need for updates is the first factor. It’s a lot easier for people to get information on their projects if it’s accessible through a web site, than if all your information is passed around by paper memos. Do you need to procure new technology or systems, or are there systems already in place that will work? The technologies available to you will definitely figure into your plan of how you will keep everyone notified of project status and issues. Staff experience with the technology is another factor. Are there project team members and stakeholders experienced at using this technology, or will you need to train them? Finally, consider the duration of the project and the project environment. Will the technology you’re choosing work throughout the life of the project or will it have to be upgraded or updated at some point? And how does the project team function? Are they located together or spread out across several campuses or locations? The answers to these questions should be documented in the communication plan.</para>
+      <para id="id1164225154491">All projects require sound communication plans, but not all projects will have the same types of communication or the same methods for distributing the information. The communication plan documents the types of information needs the stakeholders have, when the information should be distributed and how the information will be delivered.</para><para id="id1164234404454">The type of information you will typically communicate includes project status, project scope statements, and scope statement updates, project baseline information, risks, action items, performance measures, project acceptance and so on. What’s important to know now is that the information needs of the stakeholders should be determined as early in the planning phase of the project management lifecycle as possible so that as you and your team develop project planning documents, you already know who should receive copies of them and how they should be delivered.</para>
+    </section>
+    <section id="id1164224677886">
+      <title>Bringing it all together</title>
+      <para id="id1164282610705">Believe it or not, we have officially completed the <emphasis effect="italics">planning phase</emphasis> of the project management lifecycle. The project plan is the approved, formal, documented plan that’s used to guide you throughout the project <emphasis effect="italics">execution phase</emphasis>. The plan is made up of all the processes of the planning phase. It is the map that tells you where you’re going and how to perform the activities of the project plan during the project execution phase. It serves several purposes; the most important of which is tracking and measuring project performance. The project plan is critical in all communications you’ll have from here forward with the stakeholders, management, and customers. The project plan encompasses everything we talked about up to now and is represented in a formal document or collection of documents. This document contains the project scope, deliverables, assumptions, risks, WBS, milestones, project schedule, resources, communication plan, the project budget and any procurement needs. It becomes the baseline you’ll use to measure and track progress against. It is also used to help you control the components that tend to stray away from the original plan so you can get them back on track. </para>
+      <para id="id1164224894787">The project plan is used as a communication and information tool for stakeholders, team members and the management team. They will use the project plan to review and gauge progress as well. Your last step in the planning phase is obtaining sign-off of the project plan from stakeholders, the sponsor and the management team. If they’ve been an integral part of the planning processes all along (and I know you know how important this is), obtaining sign-off of the project plan should simply be a formality.</para>
+    </section><section id="eip-337"><title>Bibliography</title><list id="eip-345"><item>J. Green and A. Stellman, <emphasis effect="italics">Head First PMP</emphasis>, O’Reilly Media, CA (2007).</item>
+</list></section>
+  </content>
+</document>

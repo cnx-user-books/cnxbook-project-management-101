@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Project Closeout</title>
+  <metadata>
+  <md:content-id>m32188</md:content-id><md:title>Project Closeout</md:title>
+  <md:abstract/>
+  <md:uuid>36cf940f-a8ca-43ff-bd99-d3d6bc722d86</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170721224074">Every project needs to end and that’s what project closeout is all about in the last phase of the <emphasis effect="italics">project lifecycle</emphasis>. The whole point of the project is that you need to deliver what you promised. By making sure you delivered everything you said you would, you make sure that all stakeholders are satisfied and all acceptance criteria has been met. Once that happens, your project can finish (<link target-id="id1170721224522 "/>). </para>
+    <figure id="id1170721224522"><media id="id1170721224522_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-820b.jpg" id="id1170721224522__onlineimage" width="350" print-width="3in"/>
+      </media>
+    <caption>The potential unwanted consequences of finishing a project on time and within budget! </caption></figure>
+    
+    <para id="id1170721225075">Project <emphasis effect="italics">closeout</emphasis> is often the most often neglected phase of all the project lifecycle. Once the project is over, it’s easy to pack things up, throw some files in a drawer, and start moving right into the initiation phase of the next project. Hold on! You’re not done yet! </para>
+    <para id="id1170721225156">The key activity in project closeout is gathering project records and disseminating information to formalize acceptance of the product, service or project as well as to perform project closure. As the project manager, you will want to review project documents to make certain they are up-to-date. For example, perhaps some scope change requests were implemented that changed some of the characteristics of the final product. The project information you are collecting during this phase should reflect the characteristics and specifications of the final product. Don’t forget to update your resource assignments as well. Some team members will have come and gone over the course of the project; you need to double-check that all the resources and their roles and responsibilities are noted. </para>
+    <para id="id1170721225236">Once the project outcomes are documented, you’ll request formal acceptance from the stakeholders or customer. They’re interested in knowing if the product or service of the project meets the objectives the project set out to accomplish. If your documentation is up-to-date, you’ll have the project results at hand to share with them.</para>
+    <section id="id1170721225324">
+      <title>Lessons learned</title>
+      <para id="id1170721225439">Project closeout is also concerned with analyzing the project management processes to determine their effectiveness and to document <emphasis effect="italics">lessons learned</emphasis>. Lessons learned are used to document the successes and failures of the project. As an example, lessons learned document the reasons why specific corrective actions were taken, their outcomes, the causes of performance variances, unplanned risks that occurred, mistakes that were made and could have been avoided and so on. </para>
+      <para id="id1170721225532">Unfortunately, sometimes projects do fail. There are things that can be learned from the failure of a project (as well from successful projects), and this information should be documented for future reference. Lessons learned can be some of the most valuable information you’ll take away from any project. We can all learn from our experiences, and what better way to have more success on your next project than to review a similar past project’s lessons learned document? But it is important not to forget the lessons learned! </para>
+    </section>
+    <section id="id1170721225696">
+      <title>Contract closure</title>
+      <para id="id1170721225820">Contracts come to a close just as projects come to a close. <emphasis effect="italics">Contract closure</emphasis> is concerned with completing and settling the terms of the contract. It supports the project closeout process because the contract closure process determines if the work described in the contract was completed accurately and satisfactorily. Keep in mind that not all projects are performed under contract so not all projects require the contract closure process. Obviously, this process applies only to those phases, deliverables or portions of the project that were performed under contract.</para>
+      <para id="id1170721226032">Contract closure updates the project records detailing the final results of the work on the project. Contracts may have specific terms or conditions for completion and closeout. You should be aware of these terms or conditions so that project closeout isn’t held up because you missed an important detail. If you are administering the contract yourself, be sure to ask your procurement department if there are any special conditions that you should be aware of so that your project team doesn’t inadvertently delay contract project closure.</para>
+      <para id="id1170721226147">One of the purposes of contract closure process is to provide formal notice to the seller- usually in written form, that the deliverables are acceptable and satisfactory or have been rejected. If the product or service does not meet the expectations, the vendor will need to correct the problems before you issue a formal acceptance notice. Hopefully, quality audits have been performed during the course of the project and the vendor was given the opportunity to make corrections earlier in the process than the closing phase. It’s not a good idea to wait until the very end of the project and then spring all the problems and issues on the vendor at once. It’s much more efficient to discuss problems with your vendor as the project progresses because it provides the opportunity for correction when the problems occur.</para>
+      <para id="id1170721226196">If the product or service does meet the project’s expectation and is acceptable, formal written notice to the seller is required indicating that the contract is complete. This is the formal acceptance and closure of the contract. It’s your responsibility as the project manager to document the formal acceptance of the contract. Many times the provisions for formalizing acceptance and closing the contract are spelled out in the contract itself. </para>
+      <para id="id1170721226315">If you have a procurement department handling the contract administration, they will expect you to inform them when the contract is complete and will in turn follow the formal procedures to let the seller know the contract is complete. However, you’ll still note the contract completion in your copy of the project records.</para>
+    </section>
+    <section id="id1170721226449">
+      <title>Releasing project team</title>
+      <para id="id1170721226529">Releasing project team members is not an official process. However, it should be noted that at the conclusion of the project, you will release your project team members, and they will go back to their functional managers or get assigned to a new project. You will want to keep their managers, or other project managers, informed as you get closer to project completion, so that they have time to adequately plan for the return of their employees. Start letting them know a few months ahead of time what the schedule looks like and how soon they can plan on using their employees on new projects. This gives the other managers the ability to start planning activities and scheduling activity dates.</para>
+    </section>
+    <section id="id1170721226568"><title>Celebrate!</title><para id="id1170721226656">The project team should celebrate their accomplishment, and the project manager should officially recognize their efforts and thank them for their participation and officially close the project. A celebration helps team members formally recognize the project end and brings closure to the work they’ve done. It also encourages them to remember what they’ve learned and to start thinking about how their experiences will benefit them and the organization during the next project (<link target-id="id1170721226944"/>).</para>
+      
+    
+        <figure id="id1170721226944"><media id="id1170721226944_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-233d.jpg" id="id1170721226944__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>Celebrate! Your project is over… at least until the next one. </caption></figure>
+   
+      
+    </section>
+  </content>
+</document>

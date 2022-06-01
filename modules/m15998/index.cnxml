@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Starting a new Web project</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9ce3fab0-4844-4aa7-b12d-ca4b2a886adb</md:uuid>
+</metadata>
+  <content>
+    <para id="id6300746">Before Beginning Website Construction</para>
+    <para id="id6323924">Before beginning development on a site it is important to be able to answer a few questions in order to understand what you need to be developing and why. Below I will offer my suggestions. My suggestions are based in part on the concepts of John December, who wrote The World Wide Web Unleashed; HTML 3.2 and Cgi Unleashed; and Presenting Java. </para>
+    <para id="id6404276">John December's methodology involves six sets of information called elements: </para>
+    <list list-type="enumerated" id="id6404282">
+      <item>Audience information - a store of knowledge about the target audience for the web as well as the actual audience who uses the web. </item>
+      <item>Purpose statement - defines the reason for and scope of the web's existence. </item>
+      <item>Objectives list defines the specific goals the web should accomplish. </item>
+      <item>Domain information - a collection of knowledge and information about the subject domain the web covers. </item>
+      <item>Web specification - a detailed description of the constraints and elements that will go into the web.</item>
+      <item>Web presentation - the full description of the technical structures (hypertext and other media) by which the web is delivered to the users.</item>
+    </list>
+    <para id="id6177525">You can view more about John December at <link url="http://www.december.com/">http://www.december.com</link>.</para>
+    <para id="id6234888">Steps to Take Before Beginning Construction </para>
+    <list list-type="enumerated" id="id6234893">
+      <item>Determine who your audience is. Who are you building it to service? What are assumptions you make about this audience? When might members of the audience have conflicting needs? How many people do you hope to have hitting your site?Example: Our intended audience is students interested in distance education. They may be any age range although generally over 20 years old. They may be any gender and may come from anywhere in the United States. Some may come from overseas but we will focus on United States. They may or may not have disabilities such as sight impairment. They likely will have completed high school and are looking for options for continuing their education. We assume the user:1) has familiarity with the Web; 2) is interested in pursuing additional education; 3) are looking to find out more about us and have found us either due to a search on distance education or by knowing our direct URL. </item>
+      <item>Determine the stakeholders. Determine who internally will be impacted by a new site. Discuss ways in which they could be impacted. Try to include members from each main stakeholder group in all discussions. Support form all stakeholder groups can make or break your project.</item>
+      <item>Determine your overall purpose for the site. This may or may not match the companies overall purpose, but should definitely complement the companies overall purpose. This should be a few sentences.Example: The purpose of our site is to disseminate information on courses and degrees offered at our institution</item>
+      <item>Determine your goals and objectives. Goals are basically from the viewpoint of the company and what you want to see happen, whereas objectives are commonly what you want the end user to end up doing.Example:Goal1: Inspire students to view our online list of courses and entice them to then register for a courseObjective1: Have the end user go to our online list of courses and either register for a course or inquire for additional information</item>
+      <item>Evaluate your resources. Determine what type of manpower, machinery and budget you have to work with. Are there system limitations? Will you have maintainability issues (such as if contracting out)? What programmers do you have in house? What are their skills? What is their current workload?</item>
+      <item>Create a wish list of what you would like. Often creating this manner of a list is done in a brainstorming session. This should be done with members from various parts of the organization. Don't worry about limiting the list at this point. You may even end up with requests that directly conflict with one another based on the needs of different audiences or stakeholder groups.</item>
+      <item>Set priorities. Determine what on the wish list is a requirement and what is nice to have. Determine what your bare minimum would be, and then determine what you would incorporate in phases after that (level 2 requests, level 3 requests). Iron out problems with conflicting requests (such as whether or not to list prices)</item>
+      <item>Determine feasibility based on currently available resources. </item>
+      <item>Develop a "straw man". This is basically a mapped out diagram or text document showing what you envision and how you envision it being organized. Bear in mind that there are two types of structures: 1) what is visible to the end user and 2) what the structure is on the underlying system (where things are located physically for example), so you may want more than one document/chart. Also determine at this point what type of depth you are envisioning. How much detail will there be? How much will users be able to drill down? What parts would use multimedia or interactivity? Does this answer to your goals and objectives?</item>
+      <item>Create a detailed specification of what you want. The more precise and detailed you can be the better. This will be an offshoot of your "straw man" but will be written with the developers in mind so they know what you are looking for. It will also be to ensure that all stakeholders have the same view of what is being requested.</item>
+      <item>Determine who is responsible for what. Who will be responsible for the content development now and in the future? Who will be responsible for the actual coding? Who will maintain it? Who will address security concerns? Who will maintain the server? Who has final say where there is disagreement about content? Who does one go to if they experience problems or have questions? You may want to include this in your detailed specification.</item>
+      <item>Ensure all parties are in agreement to the detailed specification. Do developers agree it is feasible? If so, do they know how they will proceed? Does management agree with the structure and what will be presented? Do they agree with the anticipated sticker price?</item>
+    </list>
+    <para id="id6482675">Once you have completed the above steps you will be in a good position to begin building your first drafts of the framework. Remember before you start though and throughout the process to ensure you are keeping your primary goals and objectives in sight. </para>
+  </content>
+</document>

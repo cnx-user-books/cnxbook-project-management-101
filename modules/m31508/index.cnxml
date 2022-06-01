@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What is Project Management?</title>
+  <metadata>
+  <md:content-id>m31508</md:content-id><md:title>What is Project Management?</md:title>
+  <md:abstract/>
+  <md:uuid>f0a795f0-0309-43f1-b93c-eb772e5d4c5d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165248507317">You’ve determined that you have a project. What now? The notes you scribbled down on the back of the napkin at lunch are a start, but not exactly good project management practice. Too often, organizations follow Nike’s advice when it comes to managing projects when they “just do it.” An assignment is made and the project team members jump directly into the development of the product or service requested. In the end the delivered product doesn’t meet the expectations of the customer. Unfortunately, many projects follow this poorly constructed path and that is a primary contributor to why a large percentage of projects don’t meet their original objectives defined by performance, schedule, and budget. </para>
+    <para id="id1165248220710">In the United States, more than $250 billion dollars is spent each year on IT application development in approximately 175,000 projects. The Standish Group (a Boston-based leader in project and value performance research) just released the summary version of their 2009 CHAOS Report that tracks project failure rates across a broad range of companies and industries (<link target-id=" id7425309 "/>). </para>
+    <figure id="id7425309"><media id="id7425309_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-2300.jpg" id="id7425309__onlineimage" width="550" print-width="4.5in"/>
+      </media>
+    <caption>Summary of 2009 Standish Group CHAOS report. </caption></figure>
+    
+    <para id="id1165248488122">Jim Johnson, chairman of the Standish Group has stated that “this year’s results show a marked decrease in project success rates, with 32% of all projects succeeding which are delivered on time, on budget, with required features and functions, 44% were challenged which are late, over budget, and/or with less than the required features and functions and 24% failed which are cancelled prior to completion or delivered and never used.”</para>
+    <para id="id1165249775910">When are companies going to stop wasting billions of dollars on failed projects? The vast majority of this waste is completely avoidable; simply get the right business needs (requirements) understood early in the process and ensure that project management techniques are applied and followed and the project activities are monitored. </para>
+    <para id="id1165250040962">Applying good project management discipline is the way to help reduce the risks. But keep in mind, having good project management skills does not mean you have no problems, it does not mean that risks go away, or that there won’t be any surprises. The value of good project management is that you have standard processes in place to deal with all contingencies.</para>
+    <para id="id1165249484453">Project Management is the application of knowledge, skills, tools, and techniques applied to project activities in order to meet the project requirements. Project management is a process that includes planning, putting the project plan into action, and measuring progress and performance. </para>
+    <para id="id1165248504456">Managing a project includes identifying your project’s requirements; writing down what everyone needs from the project. What are the objectives for your project? When everyone understands the goal, it’s much easier to keep them all on the right path. Make sure you set goals that everyone agrees on to avoid team conflicts later on. Understanding and addressing the needs of everyone affected by the project means the end result of your project is far more likely to satisfy your stakeholders, and last but not least, as project manager you will also be balancing the many competing project constraints. </para>
+    <para id="id1165248484629">On any project, you will have a number of competing project constraints that are competing for your attention. They are cost, scope, quality, risk, resources and time. </para>
+    <list id="eip-204"><item><emphasis effect="bold">Cost</emphasis> is budget approved for the project including all necessary expenses needed to deliver the project. Within organizations, project managers have to balance between not running out of money and not under spending because many projects receive funds or grants that have contract clauses with an “use it or lose it” approach to project funds. Poorly executed budget plans can result in a last minute rush to spend the allocated funds. For virtually all projects, cost is ultimately a limiting constraint; few projects can go over budget without eventually requiring a corrective action.</item>
+
+<item><emphasis effect="bold">Scope</emphasis>  is what the project is trying to achieve, it entails all the work involved in delivering the projects outcomes and the processes used to produce them. It is the reason and the purpose of the project. </item>
+
+<item><emphasis effect="bold">Quality</emphasis> is the standards and criteria to which the project’s products must be delivered for them to perform effectively. First, the product must perform to provide the functionality expected, and to solve the problem, and deliver the benefit and value expected of it. It must also meet other performance requirements, or service levels, such as availability, reliability and maintainability, and have acceptable finish and polish. Quality on a project is controlled through quality assurance (QA) that is the process of evaluating overall project’s performance on a regular basis to provide confidence that the project will satisfy the relevant quality standards.</item>
+
+<item><emphasis effect="bold">Risk</emphasis> is defined by potential external events that will have a negative impact on your project if they occur. Risk refers to the combination of the probability the event will occur and the impact on the project if the event occurs. If the combination of the probability of the occurrence and the impact to the project is too high, you should identify the potential event as a risk and put a proactive plan in place to manage the risk. </item>
+
+<item><emphasis effect="bold">Resources</emphasis> are required to carry out the project tasks. They can be people, equipment, facilities, funding, or anything else capable of definition (usually other than labor) required for the completion of a project activity.</item>
+
+<item><emphasis effect="bold">Time</emphasis> is defined as the time to complete the project. Time is often the most frequent project oversight in developing projects. This is reflected in missed deadlines and incomplete deliverables. Proper control of the schedule requires the careful identification of tasks to be performed, an accurate estimation of their durations, the sequence in which they are going to be done, and how people and other resources are allocated.</item>
+
+</list>
+    
+    
+    
+    
+    
+    <para id="id2579093">You may have heard of the term “Triple Constraint” which traditionally only consisted of <emphasis effect="italics">Time</emphasis>, <emphasis effect="italics">Cost</emphasis> &amp; <emphasis effect="italics">Scope</emphasis>. These are the primary competing project constraints that you have to be aware of most. The triple constraint is illustrated in the form of a triangle to visualize the project work and to see the relationship between the scope/quality, schedule/time, and cost/resource (<link target-id="id1165249151944"/>). </para>
+    <figure id="id1165249151944"><media id="id1165249151944_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-7eac.jpg" id="id1165249151944__onlineimage" width="325" print-width="3in"/>
+      </media>
+    <caption>A schematic of the triple constraint triangle. </caption></figure>
+    
+    <para id="id1165249151993">In this triangle, each side represents one of the constraints (or related constraints) wherein any changes to any one side cause a change in the other sides. The best projects have a perfectly balanced triangle. Maintaining this balance is difficult because projects are prone to change. For example, if scope increases, cost and time may increase disproportionately. Alternatively, if the amount of money you have for your project decreases, you may be able to do as much, but your time may increase. </para>
+    <para id="id1165248612314">Your project may have additional constraints that you are facing, and as the project manager you have to balance the needs of these constraints against the needs of the stakeholders and against your project goals. For instance, if your sponsor wants to add functionality to the original scope you will very likely need more money to finish the project or if they cut the budget you have to reduce the quality of your scope and if you don’t get the appropriate resources to work on your project tasks you will have to extend your schedule because the resources you have take much longer to finish the work. </para>
+    <para id="id1165247911048">You get the idea; they are all dependent on each other. Think of all of these constraints as the classic carnival game of Whac-a-mole (<link target-id="id1165247981636"/>). Each time you try to push one mole back in the hole, another one pops out. The best advice is to rely on your project team to keep these moles in place! </para>
+    <figure id="id1165247981636"><media id="id1165247981636_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 13.jpg" id="id1165247981636__onlineimage" width="350" print-width="3in"/>
+      </media>
+    <caption>Go to www.dorneypark.com/public/online_fun/mole.cfm to play Whac-a-mole. </caption></figure>
+    
+    
+    <para id="id8917687">Here is an example of a project that cut <emphasis effect="italics">quality</emphasis> because the project <emphasis effect="italics">costs</emphasis> were fixed. The P-36 oil platform (<link target-id="id1989312"/>) was the largest floating production platform in the world capable of processing 180,000 barrels of oil per day and 7.2 million cubic meters of gas per day. Located in the Roncador Field, Campos Basin, Brazil the P-36 was operated by Petrobras. </para>
+    <figure id="id1989312"><media id="id1989312_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 5.jpg" id="id1989312__onlineimage" width="500" print-width="3in"/>
+      </media>
+    <caption>The Petrobras P-36 oil platform. </caption></figure>
+    
+    <para id="id1165249584779">In March 2001, the P-36 was producing around 84,000 barrels of oil and 1.3 million cubic meters of gas per day when it became destabilized by two explosions and subsequently sank in 3900 feet of water with 1650 short tons of crude oil remaining on board, killing 11 people. </para>
+    <para id="id8887378">The sinking is attributed to a complete failure in quality assurance and pressure for increased production led to corners being cut on safety procedures. It is listed as one of the most expensive accidents with a price tag of $515,000,000.</para>
+    <para id="id4002396">The following quote is from a Petrobras executive, citing the benefits of cutting quality assurance and inspection costs on the project, while the accompanying pictures are the result of this proud achievement in project management by Petrobras. </para>
+
+      <figure id="id1165249321654"><media id="id1165249321654_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 6.jpg" id="id1165249321654__onlineimage" width="500" print-width="3in"/>
+        </media>
+      <caption>"Petrobras has established new global benchmarks for the generation of exceptional shareholder wealth through an aggressive and innovative program of cost cutting on its P36 production facility."</caption></figure>
+    
+    <figure id="id6220762"><media id="id6220762_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 7.jpg" id="id6220762__onlineimage" width="500" print-width="3in"/>
+      </media>
+    <caption>"Conventional constraints have been successfully challenged and replaced with new paradigms appropriate to the globalized corporate market place."</caption></figure>
+    
+
+      <figure id="id1165247929454"><media id="id1165247929454_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 9.jpg" id="id1165247929454__onlineimage" width="500" print-width="3in"/>
+        </media>
+      <caption>"Through an integrated network of facilitated workshops, the project successfully rejected the established constricting and negative influences of prescriptive engineering, onerous quality requirements, and outdated concepts of inspection and client control."</caption></figure>
+
+    
+    <figure id="id1165249664066"><media id="id1165249664066_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-930b.jpg" id="id1165249664066__onlineimage" width="500" print-width="3in"/>
+      </media>
+    <caption>"Elimination of these unnecessary straitjackets has empowered the project's suppliers and contractors to propose highly economical solutions, with the win-win bonus of enhanced profitability margins for themselves." </caption></figure>
+    
+      <figure id="id1165250860931"><media id="id1165250860931_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 3.jpg" id="id1165250860931__onlineimage" width="500" print-width="3in"/>
+        </media>
+      <caption>"The P36 platform shows the shape of things to come in the unregulated global market economy of the 21<sup>st</sup> century."</caption></figure>
+    
+
+
+    <para id="id7881759">The dynamic trade-offs between the project constraint values has been humorously but accurately described in <link target-id="id1165249931406"/>. </para>
+    <figure id="id1165249931406"><media id="id1165249931406_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-683d.jpg" id="id1165249931406__onlineimage" width="450" print-width="3in"/>
+      </media>
+    <caption>A sign seen at an automotive repair shop. </caption></figure><section id="eip-508"><title>Bibliography</title><list id="eip-677"><item><emphasis effect="italics">CHAOS 2009 Summary and EPPM Study</emphasis>, The Standish Group, Boston, MA (2009). 
+</item>
+</list></section>
+    
+  </content>
+</document>

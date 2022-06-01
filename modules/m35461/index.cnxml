@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Operations management: Special topic: supply chain management</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35461</md:content-id>
+  <md:title>Operations management: Special topic: supply chain management</md:title>
+  <md:abstract><para>Business Fundamentals was developed by the Global Text Project,
+which is working to create open-content electronic
+textbooks that are freely available on the website
+http://globaltext.terry.uga.edu. Distribution is also possible via
+paper, CD, DVD, and via this collaboration, through Connexions.
+The goal is to make textbooks available to the many
+who cannot afford them.  For more information on getting
+involved with the Global Text Project or Connexions email us at
+drexel@uga.edu and dcwill@cnx.org.</para>
+<para><emphasis>Editor:</emphasis> Dr John Burnett (Daniels College of Business, University of Denver, USA)</para>
+<para><emphasis>Editor:</emphasis> Michael J Pesch (St Cloud University, USA)
+Reviewer: Ronald F Farina (Daniels College of Business, University of Denver, USA)</para></md:abstract>
+  <md:uuid>75440fa9-37ba-47fa-95f2-0520dd17e44f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://globaltext.terry.uga.edu/" strength="3">Visit the Global Text Project</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1169247191057">Supply chain management is the business function that coordinates and manages all the activities of the supply chain, including suppliers of raw materials, components and services, transportation providers, internal departments, and information systems. <link target-id="id1169236135035"/> illustrates a supply chain for providing packaged milk to consumers.</para>
+    <figure id="id1169236135035"><label>Exhibit</label>
+<media id="id1169236135035_media" alt="A supply chain. Supplier A goes to lathing, grinding, assembly, and painting, before finishing at shipping. Supplier B goes to milling, drilling, painting, and assembly, before also finishing at shipping.">
+        <image mime-type="image/png" src="../../media/Picture 13.png" id="id1169236135035__onlineimage" width="550" print-width="4.5in"/>
+      </media>
+    <caption>Illustration of a supply chain</caption></figure>
+    
+    <para id="id1169253214174">In the manufacturing sector, supply chain management addresses the movement of goods through the supply chain from the supplier to the manufacturer, to wholesalers or warehouse distribution centers, to retailers and finally to the consumer. For example, Apple, Inc uses sophisticated information systems to accept orders for custom-built computers from individual customers all over the world. Apple assembles the computers in Shanghai, China, to the customers’ specifications. It uses parts and components that are provided by outside suppliers who can deliver the right parts in the right quantity in a timely way to satisfy the immediate production schedule. The completed computers are flown from Shanghai by FedEx, reaching the end-user customers only a few days after the orders were placed. Apple’s supply chain allows it to provide fast delivery of high-quality custom computers at competitive prices. </para>
+    <para id="id1169245768707">Supply chain concepts also apply to the service sector, where service firms must coordinate equipment, materials, and human resources to provide services to their customers in a timely manner. For example, a retail store that sells electronic products may contract with an outside business to provide installation services to its customers. In many cases, the customer does not even know the installation was done by an outside contractor. Information and communication technologies such as global positioning systems (GPS), barcode technology, customer relationship management (CRM) databases, and the Internet allow service businesses to coordinate external and internal service suppliers to efficiently and effectively respond to customer demand. </para>
+    <para id="id1169241282735">The supply chain is not just a one way process that runs from raw materials to the end customer. Although goods tend to flow this way, important data such as forecasts, inventory status, shipping schedules, and sales data are examples of information that is constantly being conveyed to different links in the supply chain. Money also tends to flow “upstream” in the supply chain so goods and service providers can be paid. </para>
+    <section id="id1169248811974">
+      <title>Bullwhip effect</title>
+      <para id="id1169239848716">A major goal in supply chain management strategy is to minimize the bullwhip effect. The bullwhip effect occurs when inaccurate or distorted information is passed on through the links in the supply chain. As the bad information gets passed from one party to the next, the distortions worsen and cause poor ordering decisions by upstream parties in the supply chain that have little apparent link to the final end-item product demand. As information gets farther from the end customer, the worse the quality of information gets as the supply chain members base their guesses on the bad guesses of their partners. The results are wasteful inventory investments, poor customer service, inefficient distribution, misused manufacturing capacity, and lost revenues for all parties in the supply chain.</para>
+      <para id="id1169239076524">For example, Open Range Jeans (a fictitious company) are sold in a popular retail store chain. The retail chain decides to promote Open Range Jeans and reduce the price to boost customer traffic in its stores, but the chain does not tell the Open Range manufacturer of this promotion plan. The manufacturer sees an increase in retail orders, forecasts a long-term growth in demand for its jeans, and places orders with its suppliers for more fabric, zippers, and dye. </para>
+      <para id="id1169239640861">Suppliers of fabric, zippers and dye see the increase in orders from the jeans manufacturer and boost their orders for raw cotton, chemicals, etc. Meanwhile, the retail chain has ended its Open Range promotion, and sales of the jeans plummet below normal levels because customers have stocked up to take advantage of the promotion prices. Just as end-customer demand falls, new jeans are being manufactured, and raw materials are being sent to the jeans factory. When the falling end-customer demand is finally realized, manufacturers rush to slash production, cancel orders, and discount inventories. </para>
+      <para id="id1169239874546">Not wanting to get burned twice, manufacturers wait until finished goods jean inventories are drawn down to minimal levels. When seasonal demand increases jeans purchases, the retail stores order more Open Range jeans, but the manufacturers cannot respond quickly enough. A stockout occurs at the retail store level just as customers are purchasing jeans during the back-to-school sales season. Retail customers respond to the stockout by purchasing the jeans of a major competitor, causing long-term damage to Open Range’s market share.</para>
+      <section id="id1169239328187">
+        <title>Causes of the bullwhip effect</title>
+        <para id="id1169242460192">The bullwhip effect is caused by demand forecast updating, order batching, price fluctuation, and rationing and gaming. </para>
+        <list id="id1169239683050" list-type="bulleted"><item><emphasis effect="italics"><emphasis effect="bold">Demand forecast updating</emphasis></emphasis> is done individually by all members of a supply chain. Each member updates its own demand forecast based on orders received from its “downstream” customer. The more members in the chain, the less these forecast updates reflect actual end-customer demand.</item>
+          <item><emphasis effect="italics"><emphasis effect="bold">Order batching</emphasis></emphasis> occurs when each member takes order quantities it receives from its downstream customer and rounds up or down to suit production constraints such as equipment setup times or truckload quantities. The more members who conduct such rounding of order quantities, the more distortion occurs of the original quantities that were demanded.</item>
+          <item><emphasis effect="italics"><emphasis effect="bold">Price fluctuations</emphasis></emphasis> due to inflationary factors, quantity discounts, or sales tend to encourage customers to buy larger quantities than they require. This behavior tends to add variability to quantities ordered and uncertainty to forecasts.</item>
+          <item><emphasis effect="italics"><emphasis effect="bold">Rationing and gaming</emphasis></emphasis> is when a seller attempts to limit order quantities by delivering only a percentage of the order placed by the buyer. The buyer, knowing that the seller is delivering only a fraction of the order placed, attempts to “game” the system by making an upward adjustment to the order quantity. Rationing and gaming create distortions in the ordering information that is being received by the supply chain.</item>
+        </list>
+      </section>
+      <section id="id1169239818694">
+        <title>Counteracting the bullwhip effect</title>
+        <para id="id1169255968510">To improve the responsiveness, accuracy, and efficiency of the supply chain, a number of actions must be taken to combat the bullwhip effect: </para>
+        <list id="id1169241437715" list-type="bulleted">
+          <item>Make real-time end-item demand information available to all members of the supply chain. Information technologies such as electronic data interchange (EDI), bar codes, and scanning equipment can assist in providing all supply chain members with accurate and current demand information.</item>
+          <item>Eliminate order batching by driving down the costs of placing orders, by reducing setup costs to make an ordered item, and by locating supply chain members closer to one another to ease transportation restrictions.</item>
+          <item>Stabilize prices by replacing sales and discounts with consistent “every-day low prices” at the consumer stage and uniform wholesale pricing at upstream stages. Such actions remove price as a variable in determining order quantities. </item>
+          <item>Discourage gaming in rationing situations by using past sales records to determine the quantities that will be delivered to customers.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id1169238801308">
+      <title>Other factors affecting supply chain management</title>
+      <para id="id1169250282672">In addition to managing the bullwhip effect, supply chain managers must also contend with a variety of factors that pose on-going challenges:</para>
+      <list id="id1169237788830" list-type="bulleted">
+        <item>Increased demands from customers for better performance on cost, quality, delivery, and flexibility. Customers are better informed and have a broader array of options for how they conduct business. This puts added pressure on supply chain managers to continually improve performance.</item>
+        <item>Globalization imposes challenges such as greater geographic dispersion among supply chain members. Greater distances create longer lead times and higher transportation costs. Cultural differences, time zones, and exchange rates make communication and decision-making more difficult. Boeing and Airbus have discovered the downside of sourcing from global suppliers. Much smaller suppliers of kitchen galleys, lavatories, and passenger seats have been unable to fulfill orders from Boeing and Airbus, leaving the latter unable to deliver planes to its airline customers.</item>
+        <item>Government regulations, tariffs, and environmental rules provide challenges as well. For example, many countries require that products have a minimum percentage of local content. Being environmentally responsible by minimizing waste, properly disposing of dangerous chemicals, and using recyclable materials is rapidly becoming a requirement for doing business.</item>
+      </list>
+    </section>
+    <section id="id1169239072348">
+      <title>Supplier selection </title>
+      <para id="id1169251496646">Choosing suppliers is one of the most important decisions made by a company. The efficiency and value a supplier provides to an organization is reflected in the end product the organization produces. The supplier must not only provide goods and services that are consistent with the company’s mission, it must also provide good value. The three most important factors in choosing a supplier are price, quality, and on-time delivery. </para>
+      <para id="id1169239194829">A company must not only choose who it wants as a supplier, it must also decide how many suppliers to use for a given good or service. There are advantages to using multiple suppliers and there are advantages to using one supplier. Whether to single-source or multiple-source often depends on the supply chain structure of the company and the character of the goods or services it produces. </para>
+      <para id="id1169240234655">If a company uses a single supplier, it can form a partnership with that supplier. A partnership is a long-term relationship between a supplier and a company that involves trust, information sharing, and financial benefits for both parties. When both parties benefit from a partnership, it is called a “win-win situation”. It is easy to see how choosing suppliers is one of the most important decisions a company makes.</para>
+      <para id="id1169241562480">There are advantages and disadvantages to using one supplier. One advantage is that the supplier might own patents or processes and be the only source for the product. With one supplier, pricing discounts may be granted because purchases over the long-term are large and unit production costs for the supplier are lower. The supplier may be more responsive if you are the only purchaser of an item, resulting in better supplier relations. Just-in-time ordering is easier to implement, and deliveries may be scheduled more easily. Finally, using a single supplier is necessary to form a partnership. One disadvantage is that if that one supplier experiences a disaster at its warehouse like a fire or a tornado, or its workers go on strike, there is no other ready source for the product. Another possible disadvantage is that a single supplier may not be able to supply a very large quantity if it is suddenly needed. Also, sometimes the government requires the use of multiple suppliers for government projects.</para>
+      <para id="id1169253512284">There are also advantages and disadvantages to using multiple suppliers. Suppliers might provide better products and services over time if they know they are competing with other suppliers. Also, if a disaster happens at one supplier’s warehouse, other suppliers can make up the loss. If a company uses multiple suppliers, there is more flexibility of volume to match demand fluctuations. One disadvantage with multiple suppliers is that it is more difficult to forge long-term partnerships. Information sharing becomes riskier, lower volumes for each supplier provide fewer opportunities for cost savings, and suppliers tend to be less responsive to emergency situations. </para>
+      <para id="id1169253757191">Partnerships are long-term relationships between a supplier and a company that involve trust and sharing and result in benefits for both parties. A good example of a partnership is the partnering between a Deere &amp; Co. farm equipment factory and its suppliers. Deere decided to outsource its sheet metal, bar stock, and castings part families. </para>
+      <para id="id1169237833851">When Deere sent requests for bids to 120 companies, 24 companies responded to say they were interested. Deere then sent a team of engineers, quality specialists, and supply chain managers to evaluate each company. One supplier was chosen for each of the three part families. All three of the suppliers that were chosen were located less than two hours of driving time from the Deere plant. </para>
+      <para id="id1169241113250">For many years, all three suppliers have continued to provide outstanding quality, delivery, and cost performance to Deere. The suppliers benefited by gaining a long-term customer with a large amount of profitable business. Deere realized a 50 per cent drop in production costs on the three part families and was able to better focus on its mission of manufacturing farm equipment. </para>
+    </section>
+    <section id="id1169247713298">
+      <title>Conclusion</title>
+      <para id="id1169237377101">Supply chain management concerns the development of communication and information systems to link suppliers together in cooperative partnerships that promote advantage for all participants. Benefits include faster response times, reduced inventory costs, increased accuracy, and improved quality.</para>
+    </section>
+  </content>
+</document>

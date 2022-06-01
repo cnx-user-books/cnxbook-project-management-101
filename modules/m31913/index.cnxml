@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Project Life Cycle</title>
+  <metadata>
+  <md:content-id>m31913</md:content-id><md:title>The Project Life Cycle</md:title>
+  <md:abstract/>
+  <md:uuid>4380447a-ad1c-4fa5-b108-e72cf1846575</md:uuid>
+</metadata>
+
+<content>
+    <para id="id11484682">The project manager and project team have one shared goal: to carry out the work of the project for the purpose of meeting the project’s objectives. Every project has beginnings, a middle period during which activities move the project toward completion, and an ending (either successful or unsuccessful). A standard project typically has the following four major phases (each with its own agenda of tasks and issues): <emphasis effect="italics">initiation</emphasis>, <emphasis effect="italics">planning</emphasis>, <emphasis effect="italics">execution</emphasis>, and <emphasis effect="italics">closure</emphasis>. Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project <emphasis effect="italics">life cycle</emphasis> (<link target-id="id7143038"/>).</para>
+    <figure id="id7143038"><media id="id7143038_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Fig1new.jpg" id="id7143038__onlineimage" width="350" print-width="3in"/>
+      </media>
+    <caption>The four phase of the project life cycle. Adapted from J. Westland, <emphasis effect="italics">The Project Management Lifecycle</emphasis>, Kogan Page Limited (2006). </caption></figure>
+    
+    <section id="id6103133">
+      <title>Initiation phase </title>
+      <para id="id3094139">During the first of these phases, the <emphasis effect="italics">initiation phase</emphasis>, the project objective or need is identified; this can be a business problem or opportunity. An appropriate response to the need is documented in a business case with recommended solution options. A feasibility study is conducted to investigate whether each option addresses the project objective and a final recommended solution is determined. Issues of feasibility (“can we do the project?”) and justification (“should we do the project?”) are addressed. </para>
+      <para id="id14580683">Once the recommended solution is approved, a project is initiated to deliver the approved solution and a project manager is appointed. The major deliverables and the participating work groups are identified and the project team begins to take shape. Approval is then sought by the project manager to move on the detailed planning phase.</para>
+    </section>
+    <section id="id14036532">
+      <title>Planning phase </title>
+      <para id="id8813450">The next phase, the <emphasis effect="italics">planning phase</emphasis>, is where the project solution is further developed in as much detail as possible and you plan the steps necessary to meet the project’s objective. In this step, the team identifies all of the work to be done. The project’s tasks and resource requirements are identified, along with the strategy for producing them. This is also referred to as scope management. A project plan is created outlining the activities, tasks, dependencies and timeframes. The project manager coordinates the preparation of a project budget; by providing cost estimates for the labor, equipment and materials costs. The budget is used to monitor and control cost expenditures during project execution. </para>
+      <para id="id8544046">Once the project team has identified the work, prepared the schedule and estimated the costs, the three fundamental components of the planning process are complete. This is an excellent time to identify and try to deal with anything that might pose a threat to the successful completion of the project. This is called <emphasis effect="italics">risk management</emphasis>. In risk management, “high-threat” potential problems are identified along with the action that is to be taken on each high threat potential problem, either to reduce the probability that the problem will occur or to reduce the impact on the project if it does occur. This is also a good time to identify all project stakeholders, and to establish a communication plan describing the information needed and the delivery method to be used to keep the stakeholders informed. </para><para id="eip-980">Finally, you will want to document a quality plan; providing quality targets, assurance, and control measures along with an acceptance plan; listing the criteria to be met to gain customer acceptance. At this point, the project would have been planned in detail and is ready to be executed.</para>
+    </section>
+    <section id="id9734124">
+      <title>Execution phase</title>
+      <para id="id17707458">During the third phase, the <emphasis effect="italics">execution phase</emphasis>, the project plan is put into motion and performs the work of the project. It is important to maintain control and communicate as needed during execution. Progress is continuously monitored and appropriate adjustments are made and recorded as variances from the original plan. In any project a project manager will spend most of their time in this step. During project execution, people are carrying out the tasks and progress information is being reported through regular team meetings. The project manager uses this information to maintain control over the direction of the project by measuring the performance of the project activities comparing the results with the project plan and takes corrective action as needed. The first course of action should always be to bring the project back on course, i.e., to return it to the original plan. If that cannot happen, the team should record variations from the original plan and record and publish modifications to the plan. Throughout this step, project sponsors and other key stakeholders should be kept informed of project status according to the agreed upon frequency and format. The plan should be updated and published on a regular basis (<link target-id="id554545"/>). </para>
+
+
+<figure id="id554545"><media id=" id554545_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig23.jpg" id=" id554545__onlineimage" width="400" print-width="3in"/>
+          </media><caption> One year in a project – Day 19. </caption></figure>
+
+
+<para id="id17485384">Status reports should always emphasize the anticipated end point in terms of cost, schedule and quality of deliverables. Each project deliverable produced should be reviewed for quality and measured against the acceptance criteria. Once all of the deliverables have been produced and the customer has accepted the final solution, the project is ready for closure.</para>
+    </section>
+    <section id="id10615468">
+      <title>Closure phase</title>
+      <para id="id8518802">During the final closure, or <emphasis effect="italics">closeout phase</emphasis>, the emphasis is on releasing the final deliverables to the customer, handing over project documentation to the business, terminating supplier contracts, releasing project resources and communicating the closure of the project to all stakeholders. The last remaining step is to conduct lessons learned studies; to examine what went well and what didn’t. Through this type of analysis the wisdom of experience is transferred back to the project organization, which will help future project teams. </para>
+    </section><section id="eip-328"><title>Bibliography</title><list id="eip-568"><item>J. Westland, <emphasis effect="italics">The Project Management Lifecycle</emphasis>, Kogan Page Limited (2006). </item></list></section>
+  </content>
+</document>

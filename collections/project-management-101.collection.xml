@@ -1,0 +1,90 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11352</md:content-id>
+    <md:title>Project Management 101</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>530197e9-8bd7-45ab-afb9-0e098bad3056</md:uuid>
+<md:slug>project-management-101</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m31436"/>
+    <col:module document="m31428"/>
+    <col:module document="m31435"/>
+    <col:module document="m31437"/>
+    <col:module document="m31209"/>
+    <col:module document="m31439"/>
+    <col:module document="m31508"/>
+    <col:module document="m31888"/>
+    <col:module document="m31913"/>
+    <col:module document="m31947"/>
+    <col:module document="m35736"/>
+    <col:module document="m32170"/>
+    <col:module document="m32189"/>
+    <col:module document="m32188"/>
+    <col:module document="m31434"/>
+    <col:subcollection>
+      <md:title>Project Communication Management</md:title>
+      <col:content>
+        <col:module document="m14681"/>
+        <col:module document="m36647"/>
+        <col:module document="m16047"/>
+        <col:module document="m17248"/>
+        <col:module document="m15934"/>
+        <col:module document="m17115"/>
+        <col:module document="m17129"/>
+        <col:module document="m17117"/>
+        <col:module document="m17116"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Project Risk Management</md:title>
+      <col:content>
+        <col:module document="m35517"/>
+        <col:module document="m40282"/>
+        <col:module document="m19085"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Project Humans Resource Management</md:title>
+      <col:content>
+        <col:module document="m14686"/>
+        <col:module document="m35610"/>
+        <col:module document="m35386"/>
+        <col:module document="m35408"/>
+        <col:module document="m35399"/>
+        <col:module document="m35417"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Leadership</md:title>
+      <col:content>
+        <col:module document="m15614"/>
+        <col:module document="m15615"/>
+        <col:module document="m33455"/>
+        <col:module document="m26728"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethical and Social Responsibilities</md:title>
+      <col:content>
+        <col:module document="m35556"/>
+        <col:module document="m35553"/>
+        <col:module document="m17367"/>
+        <col:module document="m15627"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Subject Matter Expert in Different Fields</md:title>
+      <col:content>
+        <col:module document="m35461"/>
+        <col:module document="m35447"/>
+        <col:module document="m14621"/>
+        <col:module document="m28899"/>
+        <col:module document="m14730"/>
+        <col:module document="m15998"/>
+        <col:module document="m19623"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

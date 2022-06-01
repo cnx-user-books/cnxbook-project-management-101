@@ -1,0 +1,210 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>An Example of a Project Charter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35736</md:content-id>
+  <md:title>An Example of a Project Charter</md:title>
+  <md:abstract/>
+  <md:uuid>652b5c7d-a794-415d-b81a-56e908b36621</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1171275623803">
+      <title>Introduction </title>
+      <section id="id1425106">
+        <title>Overview of the Project </title>
+        <para id="id1171285205689">Provide a simple but precise statement of the project. </para><example id="eip-832"><para id="eip-401">
+Rice University is planning to create a store to sell computer supplies. 
+</para>
+</example>
+        
+      </section>
+      <section id="id8204622">
+        <title>Purpose of the Project Charter </title>
+        <para id="id1171275655113">This <emphasis effect="italics">Project Charter</emphasis> outlines the purpose, objectives, and scope of the project. The purpose of a Project Charter is: </para>
+        <list id="id1171275716771" list-type="bulleted">
+          <item>to provide an understanding of the project, the reason it is being conducted and its justification </item>
+          <item>to establish early on in the project the general scope </item>
+          <item id="id1171275083223">to establish the project manager and his or her authority level </item>
+        </list>
+
+
+
+        <para id="id1171274123526">A note of who will review and approve the Project Charter needs to be included. </para><example id="eip-524"><para id="eip-83">
+The Project Charter will be reviewed by the project team and approved. The final approval will be the Dean of Undergraduate Studies. 
+</para>
+</example>
+        
+      </section>
+    </section>
+    <section id="id1171286251913">
+      <title>Project Objective and Scope </title>
+      <section id="id1171279228263">
+        <title>Objective </title>
+        <para id="id1171273757506">The objective of the project should “clearly stated” and contain a “measure” of how to assess whether they have been achieved. It should be realistic, and include the objectives. It should follow the SMART protocol: </para>
+        <list id="id1171275669555" list-type="bulleted">
+          <item><emphasis effect="bold">S</emphasis>pecific (get into the details)</item>
+          <item><emphasis effect="bold">M</emphasis>easurable (use quantitative language so that you know when you are finished)</item>
+          <item><emphasis effect="bold">A</emphasis>cceptable (to stakeholders)</item>
+          <item><emphasis effect="bold">R</emphasis>ealistic (given project constraints)</item>
+          <item><emphasis effect="bold">T</emphasis>ime based (deadlines, not durations)</item>
+        </list>
+
+
+<example id="eip-337"><para id="eip-530">
+The objective of this project is to implement a campus store that is ready to sell computer supplies such as memory sticks, mouse pads, cables, etc. when class starts in August 2010, with enough inventory to last through the first two weeks of classes. 
+</para>
+</example>
+        
+      </section>
+
+
+
+
+      <section id="id1171274031549">
+        <title>Scope </title>
+        <para id="id1171275750493">The scope of the project should be listed. </para>
+        <example id="eip-203">
+
+<para id="id1171275637201">The scope of the Rice’s school supplies store project includes the activities listed below: </para>
+        <list id="id1171274294417" list-type="bulleted">
+          <item>Determine what supplies will be sold in the store </item>
+          <item>Establish competitive prices for the computer supplies </item>
+          <item>Source and secure supply vendors </item>
+          <item>Establish marketing, procurement, operations and any other necessary departments, schools, centers and institutes. </item>
+        </list>
+
+
+
+</example>
+
+
+
+        <para id="id1171275081682">It is equally important to include in the scope what is not included in the project. </para>
+
+        <example id="eip-579">
+
+<para id="id1171275841242">The scope of the project does <emphasis effect="italics">not </emphasis>include: </para>
+        <list id="id4430411" list-type="bulleted">
+          <item>Development of any other school store departments </item>
+          <item>Store design or construction </item>
+        </list>
+</example>
+
+
+
+      </section>
+
+
+
+      <section id="id1171285935854">
+        <title>Major Milestones </title>
+        <para id="id1171274099381">A list of the milestones that are needed. </para>
+        <example id="eip-202">
+
+
+<list id="id1171275637375" list-type="bulleted">
+          <item>All vendors selected </item>
+          <item>Contracts or orders complete with all vendors </item>
+          <item>Supplies delivered to the store </item>
+          <item>Pricing determined </item>
+        </list>
+
+</example>
+
+      </section>
+
+
+
+
+      <section id="id8444572">
+        <title>Major Deliverables </title>
+        <para id="id1171273316988">A list of the major deliverables that will result from the project are described. </para>
+        <example id="eip-591">
+
+<list id="id6216099" list-type="bulleted">
+          <item>Procurement of supplies </item>
+          <item>Establishment of operations, procurement, marketing and other teams </item>
+          <item>Store supplies stocked and displayed </item>
+          <item>Store staffing completed, including work schedules </item>
+          <item>Establishment of store operations policies, including hours of operation </item>
+        </list>
+
+</example>
+
+
+      </section>
+
+
+      <section id="id1171272858838">
+        <title>Assumptions </title>
+        <para id="id8186388">The assumptions in creating the project are to be outlined. </para>
+        <example id="eip-43">
+
+<list id="id1171274005019" list-type="bulleted">
+          <item>Only computer supplies will be sold in the store. </item>
+          <item>Supplies customers will be the Rice University student body and faculty </item>
+          <item>Rice University students will manage the project and be responsible for ongoing operations. </item>
+          <item>A store sponsor from the University faculty or staff will be assigned to mentor students and to provide oversight. </item>
+          <item>Store hours of operation will be approved by the Rice University students or store sponsor. </item>
+          <item>Supply deliveries will be arranged or the store sponsor will pick them up with students. </item>
+          <item>Students will be empowered to contact vendors for order placement and inquiries via telephone. </item>
+        </list>
+
+
+</example>
+
+      </section>
+
+
+
+      <section id="id1171275682837">
+        <title>Constraints </title>
+        <para id="id1171279098876">It is important to define any and all constraints on the project or those working on the project</para>
+        <example id="eip-705">
+
+<list id="id8688642" list-type="bulleted">
+          <item>Student availability to meet for project planning is limited to school hours. </item>
+          <item>The Rice University Student Association will be responsible for the creation and operation of the store. </item>
+          <item>Software is not available for project planning and control. </item>
+        </list>
+
+</example>
+
+      </section>
+    </section>
+
+
+
+    <section id="id1171274154356">
+      <title>Business Need or Opportunity </title>
+      <para id="id3398204">Provide a concise statement of the business need or opportunity that led to the creation of the project. </para><example id="eip-645"><para id="eip-556">
+The goal of this project is to provide income for the Rice Student Center while supplying necessary items to students and faculty at competitive prices. The school store will be a convenience to students since necessary supplies will be available on campus. This will help students to learn to manage their personal supplies. 
+</para>
+</example>
+      
+    </section>
+
+
+
+
+    <section id="id1171275916403">
+      <title>Preliminary Cost for the Project </title>
+      <para id="id1171274117557">A statement is to be provided indicating how the cost of the project will be defined and controlled. </para><example id="eip-652"><para id="eip-983">
+The procurement team will assemble a proposal based on expected costs for review by the Dean of Undergraduate Studies. 
+</para>
+</example>
+      
+    </section>
+    <section id="id1171275589394">
+      <title>Project Charter Acceptance </title>
+      <para id="id1171276372995">The names, titles, and signature lines of the individuals who will sign-off on the Project Charter is provided. </para>
+      <example id="eip-69"><media id="id1171276003470_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id1171276003470__onlineimage" width="350" print-width="3.5in"/>
+        </media>
+</example>
+
+
+    </section>
+  </content>
+</document>

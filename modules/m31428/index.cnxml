@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>History of Project Management</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31428</md:content-id>
+  <md:title>History of Project Management</md:title>
+  <md:abstract/>
+  <md:uuid>2a1cdb40-6136-4636-9512-1fb800d18679</md:uuid>
+</metadata>
+
+<content>
+    <para id="id9658605">Could the Great Wall of China, the pyramids, or Stonehenge (<link target-id="id7445699"/>) have been built without project management? It is possible to say that the concept of project management has been around since the beginning of history. It has enabled leaders to plan bold and massive projects and manage funding, materials and labor within a designated time frame. </para>
+
+    <figure id="id7445699"><media id="id7445699_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Stonehenge.jpg" id="id7445699__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>Stonehenge was erected between 3,000 BC and 1,600 BC by no less than three different cultures and its orientation on the rising and setting sun has always been one of its remarkable features.</caption></figure>
+
+    <para id="id16551864">In late 19<sup>th</sup> century, in the United States, large-scale government projects were the impetus for making important decisions that became the basis for project management methodology such as the transcontinental railroad, which began construction in the 1860s. Suddenly, business leaders found themselves faced with the daunting task of organizing the manual labor of thousands of workers and the processing and assembly of unprecedented quantities of raw material. </para>
+
+    <figure id="id7445643"><media id="id7445643_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-d310.jpg" id="id7445643__onlineimage" width="400" print-width="4in"/>
+      </media>
+    <caption>This is what can happen without effective project management. </caption></figure>
+    
+    <para id="id16620139">Near the turn of the century, Frederick Taylor (<link target-id="id16658485 "/>) began his detailed studies of work. He applied scientific reasoning to work by showing that labor can be analyzed and improved by focusing on its elementary parts that introduced the concept of working more efficiently, rather than working harder and longer.</para>
+
+ 
+      <figure id="id16658485"><media id="id16658485_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-5d7f.jpg" id="id16658485__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Frederick Taylor (1856–1915). </caption></figure>
+
+    
+    <para id="id16503867">Taylor’s associate, Henry Gantt (<link target-id="id17932176"/>), studied in great detail the order of operations in work and is most famous for developing the Gantt Chart in the 1910s. A Gantt chart is a popular type of bar chart that illustrates a project schedule and have become a common technique for representing the phases and activities of a project work breakdown structure, so they can be understood by a wide audience (<link target-id="id18438546"/>). Although now considered a common charting technique, Gantt charts were considered quite revolutionary at the time they were introduced. Gantt charts were employed on major infrastructure projects including the Hoover Dam and the Interstate highway system and are still accepted today as an important tool in project.</para>
+
+
+
+      <figure id="id17932176"><media id="id17932176_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-05b9.jpg" id="id17932176__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Henry Gantt (1861 - 1919). </caption></figure>
+    
+    <figure id="id18438546"><media id="id18438546_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3.png" id="id18438546__onlineimage" width="600" print-width="6in"/>
+      </media>
+    <caption>An example of a Gantt chart showing the relationship between a series of tasks. </caption></figure>
+    
+    <para id="id13365404">By the mid Twentieth century, projects were managed on an <emphasis effect="italics">ad hoc</emphasis> basis using mostly Gantt Charts, and informal techniques and tools. During that time, the Manhattan project was initiated and its complexity was only possible because of project management methods. The Manhattan project was the codename given to the Allied effort to develop the first nuclear weapons during World War II. It involved over thirty different project sites in the US and Canada, and thousands of personnel from US, Canada and UK. Born out of a small research program that began in 1939, the Manhattan Project would eventually employ 130,000 people and cost a total of nearly 2 billion USD and result in the creation of multiple production and research sites operated in secret. The project succeeded in developing and detonating three nuclear weapons in 1945. </para>
+    <para id="id12734563">The 1950s marked the beginning of the modern Project Management era. Two mathematical project-scheduling models were developed: </para>
+    <list id="id17666117" list-type="enumerated" number-style="arabic"><item>The <emphasis effect="italics">Program Evaluation and Review Technique</emphasis> or PERT, developed by Booz-Allen &amp; Hamilton as part of the United States Navy’s (in conjunction with the Lockheed Corporation) Polaris missile submarine program. Pert is basically a method for analyzing the tasks involved for completing a given project, especially the time needed to complete each task, and identifying the minimum time needed to complete the total project (<link target-id="id16904659"/>).</item>
+      <item>The <emphasis effect="italics">Critical Path Method</emphasis> (CPM) developed in a joint venture by both DuPont Corporation and Remington Rand Corporation for managing plant maintenance projects. The critical path determines the float, or schedule flexibility, for each activity by calculating the earliest start date, earliest finish date, latest start date, and latest finish date for each activity. The critical path is generally the longest full path on the project. Any activity with a float time that equals zero is considered a critical path task. CPM can help you figure out how long your complex project will take to complete and which activities are critical; meaning they have to be done on time or else the whole project will take longer. These mathematical techniques quickly spread into many private enterprises.</item>
+    </list>
+
+      <figure id="id16904659"><media id="id16904659_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4.png" id="id16904659__onlineimage" width="350" print-width="3in"/>
+        </media>
+      <caption>An example of a PERT network chart for a seven-month project with five milestones.</caption></figure>
+
+    
+    <para id="id19047510">Project management in its present form began to take root a few decades ago. In the early 1960s, industrial and business organizations began to understand the benefits of organizing work around projects. They understood the critical need to communicate and integrate work across multiple departments and professions. </para>
+    
+    <para id="id16781531">The Project Management Institute (PMI) was founded in 1969 by five volunteers. Their initial goal was to establish an organization where members could share their experiences in project management and to discuss issues. Today, PMI is a non-profit project management professional association and the most widely recognized organization in terms of promoting project management best practices. PMI was formed to serve the interests of the project management industry. The premise of PMI is that the tools and techniques of project management are common even among the widespread application of projects from the software to the construction industry. PMI first began offering the PMP certification exam in 1984. Although it took a while for people to take notice, now more than 260,000 individuals around the world hold the PMP designation. </para>
+    
+    <para id="id9500970">To help keep project management terms and concepts clear and consistent, PMI introduced the Project Management Body of Knowledge (PMBOK) Guide in 1987. They updated it in 1996, 2000, 2004, and most recently in 2009 as the fourth edition. At present, there are more than 1 million copies of the PMBOK Guide in circulation. The highly regarded Institute of Electrical and Electronics Engineers (IEEE) have adopted it as their project management standard. </para>
+    <para id="id11431056">In 1999 PMI was accredited as an American National Standards Institute (ANSI) standards developer and also has the distinction of being the first organization to have its certification program attain International Organization for Standardization (ISO) 9001 recognition. In 2008, the organization reported more than 260,000 members in over 171 countries. PMI also has offices in Washington, D.C., and Beijing, China, as well as Regional Service Centers in Singapore, Brussels (Belgium) and New Delhi (India). Recently, an office was opened in Mumbai (India). </para>
+    
+  </content>
+</document>

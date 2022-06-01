@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Project Management Areas of Expertise</title>
+  <metadata>
+  <md:content-id>m31888</md:content-id><md:title>Project Management Areas of Expertise</md:title>
+  <md:abstract/>
+  <md:uuid>fe70dfb3-79e4-44e9-b365-e6d2d2d1d640</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id10120350">In order for you as the project manager to manage the competing project constraints and to manage the project as a whole, there are some areas of expertise that you should bring onto the project team (<link target-id="id7287660"/>). They are the application area of knowledge; standards and regulations in your industry, understanding the project environment, and you must have general management knowledge and interpersonal skills. It should be noted that the industry expertise is not in a certain field but the expertise in order to run the project. So while knowledge of the type of industry is important you will have a project team supporting you in this endeavor. For example, if you are managing a project that is building an oil platform, you would not be expected to have a detailed understanding of the engineering since your team will have mechanical and civil engineers who will provide the appropriate expertise, however, it would definitely help if you understand this type of work. </para>
+    <para id="id9847330">Let’s take a look at each of these areas in more detail. </para>
+    <figure id="id7287660"><media id="id7287660_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-3a68.jpg" id="id7287660__onlineimage" width="350" print-width="4in"/>
+      </media>
+    <caption>Areas of expertise that a project manager should bring to the project team. </caption></figure>
+    
+    <section id="id10030787">
+      <title>Application knowledge; standards &amp; regulations</title>
+      <para id="id5318187">By <emphasis effect="italics">standards</emphasis>, we mean guidelines or preferred approaches that are not necessarily mandatory. In contrast, when referring to <emphasis effect="italics">regulations</emphasis> we mean mandatory rules that must be followed such as Government imposed requirements through laws. It should go without saying that as a professional, you’re required to follow all applicable laws and rules that apply to your industry, organization, or project. Every industry has standards and regulations. Knowing which ones effect your project before you begin work will not only help the project to unfold smoothly, but will also allow for effective risk analysis. </para>
+      <para id="id10972506">Some projects require specific skills in certain application areas. Application areas are made up of categories of projects that have common elements. They can be defined by: industry group (pharmaceutical, financial, etc), by department (accounting, marketing, legal, etc), by technical (software development, engineering, etc), or management (procurement, research, &amp; development, etc) specialties. These application areas are usually concerned with disciplines, regulations and the specific needs of the project, the customer, or the industry. For example, most government agencies have specific procurement rules that apply to their projects that wouldn’t be applicable in the construction industry. The pharmaceutical industry is interested in regulations set forth by the Food and Drug Administration, whereas the automotive industry has little or no concern for either of these types of regulations. You need to stay up-to-date regarding your industry so that you can apply your knowledge effectively. Today’s fast paced advances can leave you behind fairly quickly if you don’t stay abreast on current trends.</para>
+      <para id="id10849033">Having some level of experience in the application area you’re working in will give you an advantage when it comes to project management. While you can call in experts who have the application area knowledge, it doesn’t hurt for you to understand the specific aspects of the application areas of your project. </para>
+    </section>
+    <section id="id10869061">
+      <title>Understanding the project environment</title>
+      <para id="id6156818">There are many factors that need to be understood within your project environment (<link target-id="id10654202"/>). At one level you need to understand your project environment by thinking in terms of the cultural and the social environment. In this region we think of people, demographics and education. The international and political environment is where you need to understand about different countries cultural influences. Then we move on to the physical environment; here we think about time zones, think about different countries and how differently your project will be executed whether it is just in your country or whether you have an international project team that is distributed throughout the world in five different countries. </para>
+      <figure id="id10654202"><media id="id10654202_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-0dde.jpg" id="id10654202__onlineimage" width="300" print-width="3.75in"/>
+        </media>
+      <caption>The important factors to consider within the project environment.  </caption></figure>
+      
+      <para id="id10862318">Of all the factors the physical ones are the easiest to understand, and it is the cultural and international factors that are often misunderstood or ignored. How we deal with clients, customers, or project members from other countries can be critical to the success of the project. For example, the culture of the United States values accomplishments and individualism. Americans tend to be informal and call each other by first names, even if having just met. Europeans tend to be more formal, using surnames instead of first names in a business setting, even if they know each other well. In addition, their communication style is more formal than in the US, and while they tend to value individualism, they also value history, hierarchy, and loyalty. The Japanese, on the other hand, tend to communicate indirectly and consider themselves part of a group, not as individuals. The Japanese value hard work and success, as most of us do. </para>
+      <para id="id5169451">How a product is received can be very dependent on the international cultural differences. For example, in the nineties, when many large American and European telecommunications companies were cultivating new markets in Asia, their customer’s cultural differences often produced unexpected situations. Western companies planned their telephone systems to work the same way in Asia as they did in Europe and America. But the protocol of conversation was different. Call-waiting, a popular feature in the West, is considered impolite in some parts of Asia. This cultural blunder could have been avoided had the team captured the project environment requirements and involved the customer. </para>
+      <para id="id11305787">It is often the simplest things that can cause trouble since unsurprisingly in different countries people do things differently. One of the most notorious examples of this is also one of the most simple: date formats. What day and month is 2/8/2009? Of course it depends where you come from; in North America it is February 8<sup>th</sup> while in Europe (and much of the rest of the world) it is 2<sup>nd</sup> August. Clearly, when schedules and deadlines are being defined it is important that everyone is clear on the format used. </para>
+      <para id="id9408423">The diversity of practices and cultures and its impact on products in general and on software in particular, goes well beyond the date issue. You may be managing a project to create a new website for a company that sells products worldwide. There are language and presentation style issues to take into consideration; converting the site into different languages isn’t enough. It is obvious to ensure that the translation is correct, however, the presentation layer will have its own set of requirements for different cultures. The left side of a web site may be the first focus of attention for an American; the right side would be the initial focus for anyone from the Middle East, as both Arabic and Hebrew are written from right to left. Colors also have different meanings in different cultures. White, which is a sign of purity in America (e.g., a bride’s wedding dress), and thus would be a favored background color in North America, signifies death in Japan (e.g., a burial shroud). <link target-id="id10776978"/> summarizes different meanings of common colors. </para>
+      <table id="id10776978" summary="The meaning of colors in various cultures. Adapted from">
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Color</emphasis> </entry>
+              <entry><emphasis effect="bold">United States</emphasis> </entry>
+              <entry><emphasis effect="bold">China</emphasis> </entry>
+              <entry><emphasis effect="bold">Japan</emphasis> </entry>
+              <entry><emphasis effect="bold">Egypt</emphasis> </entry>
+              <entry><emphasis effect="bold">France</emphasis> </entry>
+            </row>
+            <row>
+              <entry>Red</entry>
+              <entry>Danger, stop</entry>
+              <entry>Happiness</entry>
+              <entry>Anger, danger</entry>
+              <entry>Death</entry>
+              <entry>Aristocracy</entry>
+            </row>
+            <row>
+              <entry>Blue</entry>
+              <entry>Sadness, melancholy</entry>
+              <entry>Heavens, clouds</entry>
+              <entry>Villainy</entry>
+              <entry>Virtue, faith, truth</entry>
+              <entry>Freedom, peace</entry>
+            </row>
+            <row>
+              <entry>Green</entry>
+              <entry>Novice, apprentice</entry>
+              <entry>Ming dynasty, heavens</entry>
+              <entry>Future, youth, energy</entry>
+              <entry>Fertility, strength</entry>
+              <entry>Criminality</entry>
+            </row>
+            <row>
+              <entry>Yellow</entry>
+              <entry>Cowardice</entry>
+              <entry>Birth, wealth</entry>
+              <entry>Grace, nobility</entry>
+              <entry>Happiness, prosperity</entry>
+              <entry>Temporary</entry>
+            </row>
+            <row>
+              <entry>White</entry>
+              <entry>Purity</entry>
+              <entry>Death, purity</entry>
+              <entry>Death</entry>
+              <entry>Joy</entry>
+              <entry>Neutrality</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>The meaning of colors in various cultures. Adapted from P. Russo and S. Boor, <emphasis effect="italics">How Fluent is Your Interface? Designing for International Users</emphasis>, Proceedings of the INTERACT '93 and CHI '93, Association for Computing Machinery, Inc. (1993). </caption>
+</table>
+      
+      <para id="id10280146">Project managers in multicultural projects must appreciate the culture dimensions and try to learn relevant customs, courtesies, and business protocols before taking responsibility for managing an international project. A project manager must take into consideration these various cultural influences and how they may affect the project’s completion, schedule, scope and cost.</para>
+    </section>
+    <section id="id10926560">
+      <title>Management knowledge &amp; skills</title>
+      <para id="id10634318">As the project manager you have to rely on your project management knowledge and your general management skills. In this area we are thinking of items like your ability to plan the project, to execute the project properly and of course to control the project and bring it to a successful conclusion with the ability to guide the project team while achieving project objectives and balancing the project constraints.</para>
+      <para id="id9324229">There is more to project management than just getting the work done. Inherent to the process of project management are the general management skills that allow the project manager to complete the project with some level of efficiency and control. In some respects, managing a project is similar to running a business: there are risk and rewards, finance and accounting activities, human resource issues, time management, stress management, and a purpose for the project to exist. General management skills are needed in just about every project. </para>
+    </section>
+    <section id="id9406993">
+      <title>Interpersonal skills</title>
+      <para id="id9615098">Last but not least you also have to bring the ability onto the project to manage personal relationships as well as dealing with issues as they arise. Here were talking about your interpersonal skills as shown in <link target-id=" id11294928"/>. </para>
+ 
+
+        <figure id="id11294928"><media id="id11294928_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-8b5e.jpg" id="id11294928__onlineimage" width="300" print-width="3.75in"/>
+          </media>
+        <caption>Interpersonal skills required of a project manager. </caption></figure>
+
+      
+      <section id="id9595712">
+        <title>Communication</title>
+        <para id="id10901701">Project managers spend 90% of their time communicating. Therefore they must be good communicators, promoting clear unambiguous exchange of information. As a project manager, it is your job to keep a number of people well informed. It is essential that your project staff know what is expected of them: what they have to do, when they have to do it, and what budget and time constraints and quality specification they are working towards. If project staff does not know what their tasks are, or how to accomplish them, then the entire project will grind to a halt. If you do not know what the project staff is (or often is not) doing then you will be unable to monitor project progress. Finally, if you are uncertain of what the customer expects of you, then the project will not even get off the ground. Project communication can thus be summed up as <emphasis effect="italics">who needs what information and when</emphasis>. </para>
+        <para id="id10873482">All projects require sound communication plans, but not all projects will have the same types of communication or the same methods for distributing the information. For example, will information be distributed via mail or e-mail, is there a shared web site, or are face-to-face meetings required? The communication management plan documents how the communication needs of the stakeholders will be met, including the types of information that will be communicated, who will communicate it, who receives the communication, the methods used to communicate, the timing and frequency, the method for updating the plan as the project progresses, escalation process, and a glossary of common terms. </para>
+      </section>
+      <section id="id10161914">
+        <title>Influence</title>
+        <para id="id7246492">Project management is about getting things done. Every organization is different in its policies, modes of operations and underlying culture. There are political alliances, differing motivations, conflicting interest, and power struggles within every organization. A project manager must understand all of the unspoken influences at work within an organization.</para>
+      </section>
+      <section id="id10087605">
+        <title>Leadership</title>
+        <para id="id10087913">Leadership is the ability to motivate and inspire individuals to work towards expected results. Leaders inspire vision and rally people around common goals. A good project manager can motivate and inspire the project team to see the vision and value of the project. The project manager as a leader can inspire the project team to find a solution to overcome the perceived obstacles to get the work done.</para>
+      </section>
+      <section id="id9386570">
+        <title>Motivation</title>
+        <para id="id10283521">Motivation helps people work more efficiently and produce better results. Motivation is a constant process that the project manager must have to help the team move towards completion with passion and a profound reason to complete the work. Motivating the team is accomplished by using a variety of team building techniques and exercises. Team building is simply getting a diverse group of people to work together in the most efficient and effective manner possible. This may involve management events as well as individual actions designed to improve team performance. </para>
+        <para id="id4941307">Recognition and rewards are an important part of team motivations. They are formal ways of recognizing and promoting desirable behavior and are most effective when carried out by the management team and the project manager. Consider individual preferences and cultural differences when using rewards and recognition. Some people don’t like to be recognized in front of a group; others thrive on it.</para>
+      </section>
+      <section id="id11396435">
+        <title>Negotiation</title>
+        <para id="id9442963"><emphasis effect="bold"/>Project managers must negotiate for the good of the project. In any project, the project manager, the project sponsor, and the project team will have to negotiate with stakeholders, vendors, and customers to reach a level of agreement acceptable to all parties involved in the negotiation process.</para>
+      </section>
+      <section id="id10899785">
+        <title>Problem solving</title>
+        <para id="id9424063">Problem solving is the ability to understand the heart of a problem, look for a viable solution, and then make a decision to implement that solution. The premise for problem solving is problem definition. Problem definition is the ability to understand the cause and effect of the problem; this centers on root cause analysis. If a project manager treats only the symptoms of a problem rather than its cause, the symptoms will perpetuate and continue through the project life. Even worse treating a symptom may result in a greater problem. For example, increasing the ampere rating of a fuse in your car because the old one keeps blowing does not solve the problem of an electrical short that could result in a fire. Root cause analysis looks beyond the immediate symptoms to the cause of the symptoms, which then affords opportunities for solutions. Once the root of a problem has been identified, a decision must be made to effectively address the problem. </para>
+        <para id="id4361959">Solutions can be presented from vendors, the project team, the project manager or various stakeholders. A viable solution focuses on more than just the problem; it looks at the cause and effect of the solution itself. In addition, a timely decision is needed or the window of opportunity may pass and then a new decision will be needed to address the problem. As in most cases, the worst thing you can do is nothing.</para>
+        
+      </section><para id="eip-159">All of these interpersonal skills will be utilized in all areas of project management. Start practicing now because its guaranteed that you’ll need these skills on your next project. </para>
+    </section>
+  </content>
+</document>
